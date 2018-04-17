@@ -5,6 +5,9 @@ title: How to setup a national RSE association?
 
 # How to setup a national RSE association?
 
+Authors: James Hetherington, Ben van Werkhoven, Robert Haines,
+Stephan Janosch, Paul Hagan, Samar Elsheikh, Radek Lonka
+
 In this article we explain how to get an RSE network or association started 
 in your country, region, community or institution. It first summarises the 
 argument that has worked in other places, and the tone and style to take in 
@@ -62,9 +65,9 @@ a professional network of other RSEs. A complement to the existing
 postdoctoral career structure, for those who want to focus on the software 
 side of their work.
 
-To recap: *"Software is important to science, scientific software is broken,
+To recap: **"Software is important to science, scientific software is broken,
 software engineering can help, but you need software engineers with
-scientific understanding, so you need research software engineers!"*
+scientific understanding, so you need research software engineers!"**
 
 ### The tone to take
 
@@ -105,9 +108,8 @@ You will also need to cite evidence for each of these points in the
 argument. You can find evidence for this in the results of a survey of your 
 research community, (see below for more detail on how to do this), and can 
 use headline figures from the results of previous surveys in other places, 
-and our catalogue of case-studies. For the 2014 UK Research Software Survey 
-see here: 
-https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers
+and our catalogue of case-studies. For [the 2014 UK Research Software Survey 
+see here](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers)
 
 
 ## Practical steps
@@ -115,18 +117,18 @@ https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-witho
 This section contains a number of practical step that are intended to help 
 you getting started with creating your own RSE network or association.
 
-## Success stories
+### Success stories
 (link from other group will come later)
-
 
 
 ### Have/Attend a workshop at an e-Science conference or two
 
 So where and how do you find people to join forces with? First we are in 
 lucky situation to have running conferences and workshops about research 
-software/research infrastructure. The next big ones are the RSE18 in 
-September (http://rse.ac.uk/conf2018/) and eScience 2018 in October/November 
-(http://www.escience2018.com). If you go there you might bump into people 
+software/research infrastructure. The next big ones are the [RSE18 in 
+September](http://rse.ac.uk/conf2018/) and
+[eScience 2018 in October/November](http://www.escience2018.com). If you
+go there you might bump into people 
 from your neighbourhood. Check the attendees list. You can also ask the 
 organizers beforehand, if they expect someone from your country. The 
 organizers probably did some outreach and are willing to help you. If you 
@@ -206,13 +208,14 @@ to reach a wider audience, but Twitter, Facebook, Linkedin are also great
 platforms for sharing stories and gaining traction.
 
 Exemplar Initial blog posts: 
-   * https://www.software.ac.uk/blog/2016-10-07-craftsperson-and-scholar
-   * https://dirkgorissen.com/2012/03/26/the-researcher-programmer-a-new-species/
-   * https://software.ac.uk/blog/2012-04-23-work-scientific-software-engineers-recognised-academia 
-   * https://blog.esciencecenter.nl/introducing-nl-rse-98431969e2b8 
+   * [The Craftsperson and the Scholar](https://www.software.ac.uk/blog/2016-10-07-craftsperson-and-scholar)
+   * [The researcher programmer, a new species?](https://dirkgorissen.com/2012/03/26/the-researcher-programmer-a-new-species/)
+   * [Is the work of scientific software engineers recognised in academia?](https://software.ac.uk/blog/2012-04-23-work-scientific-software-engineers-recognised-academia)
+   * [Introducing NL-RSE](https://blog.esciencecenter.nl/introducing-nl-rse-98431969e2b8) 
+
 Get an article in a magazine! (Make friends with a journalist):
-   * https://www.timeshighereducation.com/news/save-your-work-give-software-engineers-a-career-track/2006431.article
-   * https://www.software.ac.uk/index.php/blog/2016-09-12-researchers-both-rely-software-and-overlook-it (originally appeared in Research Fortnight)
+   * [Save your work – give software engineers a career track](https://www.timeshighereducation.com/news/save-your-work-give-software-engineers-a-career-track/2006431.article)
+   * [Researchers both rely on software - and overlook it](https://www.software.ac.uk/index.php/blog/2016-09-12-researchers-both-rely-software-and-overlook-it) (originally appeared in Research Fortnight)
 
 ### Get someone to give a talk
 
@@ -252,7 +255,11 @@ RSE, which recently moved to weekly digests for job adverts to keep the
 volume in control. It’s best to use the mailinglist for announcements and 
 use other means of communication, for example Slack, for discussions.
 
+### Make your organisation known to the world
 
-
+Now that you've established a national RSE association, it is time to connect
+your association internationally! Please make your brand new association
+known to the
+[international network of RSE associations](http://researchsoftware.org/)!
 
 
