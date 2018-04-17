@@ -3,20 +3,22 @@ layout: home
 title: How to setup a national RSE association?
 ---
 
+# How to setup a national RSE association?
+
 In this article we explain how to get an RSE network or association started 
 in your country, region, community or institution. It first summarises the 
 argument that has worked in other places, and the tone and style to take in 
 persuading researchers of the value of RSEs. After that we list a number of 
 practical steps that are often taken in starting a network.
 
-# The argument
+## The argument
 
 In making the argument for RSEs, do not emphasise the need for a better, 
 more stable career for people like you! Nobody cares. Honestly. Instead, the 
 argument must be based on how a well-established RSE role will make science 
 better.
 
-## The core argument
+### The core argument
 
 The argument for RSEs has five core steps. Each needs to be made. Do not 
 miss out any steps!
@@ -64,7 +66,7 @@ To recap: *"Software is important to science, scientific software is broken,
 software engineering can help, but you need software engineers with
 scientific understanding, so you need research software engineers!"*
 
-## The tone to take
+### The tone to take
 
 It is important to frame arguments in favour of RSEs, and RSE organizations, 
 in terms of how they will support the research community and, indeed, how 
@@ -97,7 +99,7 @@ A related argument against the involvement of an RSE in a research project
 might be, “I don’t want to share my software with anyone; you might find 
 bugs in it”!
 
-## The evidence
+### The evidence
 
 You will also need to cite evidence for each of these points in the 
 argument. You can find evidence for this in the results of a survey of your 
@@ -108,7 +110,7 @@ see here:
 https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers
 
 
-# Practical steps
+## Practical steps
 
 This section contains a number of practical step that are intended to help 
 you getting started with creating your own RSE network or association.
@@ -118,7 +120,7 @@ you getting started with creating your own RSE network or association.
 
 
 
-## Have/Attend a workshop at an e-Science conference or two
+### Have/Attend a workshop at an e-Science conference or two
 
 So where and how do you find people to join forces with? First we are in 
 lucky situation to have running conferences and workshops about research 
@@ -133,7 +135,7 @@ with the same cultural background from your continent. There must be
 someone, right? And meeting someone face to face helps way more to build a 
 trustworthy relationship.
 
-## A core team
+### A core team
 
 As soon as you are aware of the RSE role you can start looking for people 
 who do this kind of work. You might find colleagues in your field just next 
@@ -150,7 +152,7 @@ What would be topics you can chat about?
    * How is it created and maintained?
    * What does your career look like?
 
-## A survey of the research community
+### A survey of the research community
 
 Holding a survey is not just there to gather information it is actually also 
 a great way of spreading the word and getting in touch with people that 
@@ -191,7 +193,7 @@ people you know to spread the word and try to get people who write
 newsletters to also include an announcement of your survey. And of course 
 use social media, including LinkedIn and Twitter.
 
-## Press and blogs
+### Press and blogs
 
 Wider publicity for the RSE movement through established media outlets is a 
 great way to raise awareness, and drive engagement. Don’t be afraid to turn 
@@ -212,7 +214,7 @@ Get an article in a magazine! (Make friends with a journalist):
    * https://www.timeshighereducation.com/news/save-your-work-give-software-engineers-a-career-track/2006431.article
    * https://www.software.ac.uk/index.php/blog/2016-09-12-researchers-both-rely-software-and-overlook-it (originally appeared in Research Fortnight)
 
-## Get someone to give a talk
+### Get someone to give a talk
 
 A great way to make a compelling case for the importance of RSE groups - be 
 they local, regional, or national - is to draft in an evangelist from the 
@@ -223,7 +225,7 @@ You can contact the RSE through any of our online channels to initiate a
 conversation about how we can help, and find out about the availability of 
 our team to visit in person.
 
-## Forming an organisation 
+### Forming an organisation 
 
 Finally, after clearly defining the needs of establishing a national RSE 
 organisation, setting-up its core team, raise awareness of what it can 
