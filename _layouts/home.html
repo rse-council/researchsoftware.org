@@ -19,8 +19,8 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-        {{ post.content | split:'<!--break-->' | first }}
         {% if post.content contains '<!--break-->' %}
+            {{ post.content | split:'<!--break-->' | first }}
             <a href="{{ post.url }}">Read more</a>
         {% endif %}
 

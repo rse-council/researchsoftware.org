@@ -3,8 +3,6 @@ layout: home
 title: How to setup a national RSE association?
 ---
 
-# How to setup a national RSE association?
-
 Authors: James Hetherington, Ben van Werkhoven, Robert Haines,
 Stephan Janosch, Paul Hagan, Samar Elsheikh, Radek Lonka
 
