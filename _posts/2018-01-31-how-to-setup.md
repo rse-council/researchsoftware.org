@@ -14,6 +14,8 @@ argument that has worked in other places, and the tone and style to take in
 persuading researchers of the value of RSEs. After that we list a number of 
 practical steps that are often taken in starting a network.
 
+<!--break-->
+
 ## The argument
 
 In making the argument for RSEs, do not emphasise the need for a better, 
