@@ -1,6 +1,6 @@
 ---
-layout: home
-title: How to setup a national RSE association?
+layout: post
+title: "How to setup a national RSE association?"
 ---
 
 Authors: James Hetherington, Ben van Werkhoven, Robert Haines,
