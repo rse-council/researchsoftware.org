@@ -15,7 +15,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - assoc.md
-# - join.md
+ - contact.md
 # - communication.md
 
 # Build settings
