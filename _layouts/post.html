@@ -11,9 +11,13 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: "%B %d, %Y" }}
       </time>
+
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
+      {% if page.image %}
+        <img src="{{ page.image }}">
+      {% endif %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

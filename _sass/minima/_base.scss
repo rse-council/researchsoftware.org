@@ -190,10 +190,42 @@ pre {
   }
 }
 
+.preview {
+  max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  height: 100%;
+  display: flex;
+
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
+  }
+}
+
+.preview-img {
+  max-width: #{$preview-img-width};
+  width: #{$preview-img-width};
+
+  @include media-query($on-laptop) {
+    max-width: #{$preview-img-width};
+  }
+}
+
+.preview-with-img {
+  max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - #{$preview-img-width} - (#{$spacing-unit} * 4));
+  max-width:         calc(#{$content-width} - #{$rightcol-width} - #{$preview-img-width} - (#{$spacing-unit} * 4));
+
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - #{$preview-img-width} - (#{$spacing-unit} * 4));
+    max-width:         calc(#{$content-width} - #{$rightcol-width} - #{$preview-img-width} - (#{$spacing-unit} * 4));
+  }
+}
+
 .post {
   max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));
-  float: left;
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - #{$rightcol-width} - (#{$spacing-unit} * 2));

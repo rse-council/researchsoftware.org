@@ -20,14 +20,24 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-        <div class="post-content">
         {% if post.content contains '<!--break-->' %}
+        <div class="preview">
+        {% if post.image %}
+        <div class="preview-with-img">
+        {% else %}
+        <div class="post-content">
+        {% endif %}
             {{ post.content | split:'<!--break-->' | first }}
             <a href="{{ post.url }}">Read more</a>
-        {% endif %}
         </div>
+        {% if post.image %}
+        <a class="preview-img" href="{{ post.url | relative_url }}"><img src="{{ post.image }}"></a>
+        {% endif %}
 
         </div>
+        </div>
+        {% endif %}
+
       </li>
     {% endfor %}
   </ul>
