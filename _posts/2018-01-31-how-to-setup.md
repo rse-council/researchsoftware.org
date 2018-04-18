@@ -118,8 +118,13 @@ This section contains a number of practical step that are intended to help
 you getting started with creating your own RSE network or association.
 
 ### Success stories
-(link from other group will come later)
 
+Stories and case studies that illustrate the impact of RSE involvement in
+research projects can be a powerful way to win support. If you join the
+RSE Slack and ask for examples you will be likely to find plenty of
+material. This will be even easier in the future as an international
+RSE "evidence bank" is under construction where we can pool our best
+resources to help with this.
 
 ### Have/Attend a workshop at an e-Science conference or two
 
