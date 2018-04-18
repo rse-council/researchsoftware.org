@@ -20,6 +20,6 @@ title: Associations
 
 # Starting a National RSE association
 
-If you are thinking about starting something in your country or region, there is a [blog post with tips for setting up an RSE association]() on this site.
+If you are thinking about starting something in your country or region, there is a blog post on [How to set up a national RSE association](https://researchsoftware.org/2018/01/31/how-to-setup.html) on this site.
 
-You could discuss with the people who have done this elsewhere and try to find others who can get involved by joining the [RSE Slack](https://ukrse.slack.com) ([request access here](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1)). There is a #international channel that would be a good place to start...
+You could discuss with the people who have done this elsewhere and try to find others who can get involved by joining the [RSE Slack](https://ukrse.slack.com) ([request access here](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1)). There is an #international channel that would be a good place to start...
