@@ -2,7 +2,7 @@
 
 This is the website of the international research software engineering community.  
 
-Research Software Engineers are people who combine professional software expertise with an understanding of research. They work in many contexts and may have various job titles but the term Research Software Engineer (RSE) is fast gaining international recognition.
+Research Software Engineers are people who combine professional software expertise with an understanding of research. They go by various job titles but the term Research Software Engineer (RSE) is fast gaining international recognition.
 
 # National RSE Associations
 
@@ -21,7 +21,7 @@ and more are in the pipeline. See [the Associations page](https://researchsoftwa
 
 # About this site
 
-In January, leaders of national RSE associations, local RSE groups and related initiatives from around the world came together in London for the first International RSE Leaders Workshop, organised by the UK RSE Association. This website and some initial blog posts and resources sprang from the breakout groups. 
+In January, leaders of national RSE associations, local RSE groups and related initiatives from around the world came together in London for the first International RSE Leaders Workshop, organised by the UK RSE Association. This website and some initial blog posts and resources sprang from the breakouts. 
 
 The International Network of RSE Associations (behind this website) was established as a loose grouping of the people leading national associations or in the process of setting them up and can be reached via the contact link.
 
