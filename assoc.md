@@ -11,7 +11,7 @@ title: Associations
 
 [🇳🇱 NL-RSE - The community of Research Software Engineers in the Netherlands](http://nl-rse.org)
 
-[🇳🇴🇸🇪🇫🇮🇩🇰🇮🇸 NO-RSE - Nordic Research Software Engineers Community](http://nordic-rse.org/)
+[🇳🇴🇸🇪🇫🇮🇩🇰🇮🇸 NORDIC-RSE - Nordic Research Software Engineers Community](http://nordic-rse.org/)
 
 
 # National RSE Associations under construction...
