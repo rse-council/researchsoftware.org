@@ -11,7 +11,7 @@ In January 2018, leaders of Research Software Engineering groups, networks and i
 
 <!--break-->
 
-![Int RSEL participants map](/img/Group_photo.jpg)
+<!-- ![Int RSEL participants map](/img/Group_photo.jpg) -->
 
 ## International momentum 
 
@@ -27,7 +27,7 @@ When the call for the EPSRC UK-USA RSE travel fund was published this seemed lik
 
 Overall, 41 people from 11 countries took part in the workshop, including two who gave talks remotely from New Zealand and Brazil, making it a truly international event (though next time we need to work on finding contacts from Asia).
 
-<img src="/img/intRSE_participnts_map.PNG" width=350px />
+<!--img src="/img/intRSE_participnts_map.PNG" width=350px /-->
 
 The participants were people running or setting up research software groups, national networks or initiatives to improve access to software skills in research. What they all had in common was a determination to improve things and an enthusiasm to work together and get things done.
 
