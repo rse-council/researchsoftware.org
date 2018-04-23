@@ -47,16 +47,19 @@ The day ended with a planning session to decide on goals for the breakout sessio
 
 The second day was devoted to getting things done with breakout sessions in “speed blogging” style - discussion followed by drafting of concrete outputs.
 
-There was a focus on improving RSE international web presence and communication. This international RSE website was created as well as one for the fledgling Nordic RSE association. Plans were made for future collaboration between RSE leaders RSE with further meetings or sessions planned at relevant upcoming conferences. A Wikipedia entry for Research Software Engineering was written and participants contributed to the effort to establish a research computing Q&A site on Stack Exchange - both of these efforts are seeking further contributors.
+There was a focus on improving RSE international web presence and communication. This international RSE website was created as well as one for the fledgling Nordic RSE association. Plans were made for future collaboration between RSE leaders RSE with further meetings or sessions planned at relevant upcoming conferences. A Wikipedia entry for Research Software Engineering was written and participants contributed to the effort to establish a research computing Q&A site on Stack Exchange - both of these efforts are seeking further contributors. The UK RSE Slack has been dropped the "UK" branding to serve as an international discussion platform.
 
 One group tackled the desire to share resources to help make the case for the value of RSEs by designing and setting up a repository for an international RSE “evidence bank” where (watch this space). Several discussion groups generated draft blog posts on topics from tips for starting an RSE network to tools and techniques for managing RSE work on a day-to-day basis and the first of these are now published. The interest in comparing RSE group operating models yielded a survey to gather information that is currently open.
 
 ## Inspiration for the future
 
-It was an intense two days and the atmosphere was friendly, ambitious and practical. The feedback from emails and tweets indicates that many participants got a lot out of the experience:
+It was an intense two days and the atmosphere was friendly, ambitious and practical. The feedback from emails and tweets (see #intrse) indicates that many participants got a lot out of the experience:
 
 “I got home last night and almost couldn't sleep because I was still so excited about the whole event. I feel that I learned so much and got great ideas on how to tackle certain issues we have within our center. It was for me one of the most inspiring events I've attended.”
 
+There is continued collaboration between many of the RSE leaders who took part in the workshop and a definite sense that the momentum behind the international RSE movement is building. I'm excited to see where the enthusiasm and talent of this community takes us in the coming years.
+
+
 
 The organisers were: 
-Alys Brett (UKAEA, workshop chair), Robert Haines (Manchester), James Hetherington (Turing Institute), Simon Hettrick (SSI), Mark Turner (Newcastle), Chris Woods (Bristol), Claire Wyatt (Southampton)
+Alys Brett (UKAEA), Robert Haines (University of Manchester), James Hetherington (The Alan Turing Institute), Simon Hettrick (Software Sustainability Institute), Mark Turner (Newcastle University), Chris Woods (University of Bristol), Claire Wyatt (University of Southampton)
