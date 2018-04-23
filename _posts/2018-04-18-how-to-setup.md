@@ -3,8 +3,13 @@ layout: post
 title: "How to setup a national RSE association?"
 ---
 
-Authors: James Hetherington, Ben van Werkhoven, Robert Haines,
-Stephan Janosch, Paul Hagan, Samar Elsheikh, Radek Lonka
+Authors: James Hetherington *Alan Turing Institute*,
+Ben van Werkhoven *Netherlands eScience Center*,
+Robert Haines *University of Manchester*,
+Stephan Janosch *Max Planck Institute of Molecular Cell Biology and Genetics*,
+Paul Hagan *British Oceanographic Data Centre*,
+Samar Elsheikh *University of Cape Town*,
+Radek Lonka *Norwegian University of Science and Technology*
 
 In this article we explain how to get an RSE network or association started 
 in your country, region, community or institution. It first summarises the 
