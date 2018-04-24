@@ -35,13 +35,13 @@ We asked all participants what they wanted from the workshop and the big themes 
 
 ## An event shaped by the participants
 
-Every participant spoke on the first day. The US travel fund recipients all gave a short talk about the groups or initiatives they are involved in leading, sharing the successes, challenges and open questions. Representatives of eight other countries gave an overview of the research software engineering landscape in their country or region. Everyone else gave a two minute lightning talk introducing themselves and raising a point, question or suggestion relating to the themes of the workshop. 
+Every participant spoke on the first day. The US travel fund recipients all gave a short talk about the groups or initiatives they are involved in leading, sharing the successes, challenges and open questions. Representatives of eight other countries gave an overview of the research software engineering landscape in their country or region. Everyone else gave a two minute lightning talk introducing themselves and raising a point, question or suggestion relating to the themes of the workshop. There were so many fascinating insights but I'll mention just a couple of my personal highlights.
 
-One of my personal highlights from the talks was the story told by Samar Elsheikh about the challenges and fantastic success of the first ever Software Carpentry workshop in Sudan - trading places for routers to ensure internet access, 551 applications for 40 places with women making up over 50% of participants!
+Samar Elsheikh told the story of the challenges and fantastic success of the first ever Software Carpentry workshop in Sudan - trading places for routers to ensure internet access and 551 applications for 40 places with women making up over 50% of participants!
 
 Ian Cosden from Princeton spoke about the rapid growth of his new group which he is renaming the Research Software Engineering Group after interaction with the UK RSE community. Responses to his job adverts doubled when the posts were titled Research Software Engineer rather than Computational Research Applications Analyist (though both require care with acronyms). His description of the unique way the projects are funded and organised prompted a discussion about operating models and some envy from those with less institutional support. 
 
-The day ended with a planning session to decide on goals for the breakout sessions the following day. From some initial topics and suggestions, participants added ideas and indicated which they would like to work on. With plans in place, everyone headed to a nearby pub for the conference dinner.
+The day ended with a session to decide on goals for the breakouts the following day. From some initial topics and suggestions, participants added ideas and indicated which they would like to work on. With plans in place, everyone headed to a nearby pub for the conference dinner.
 
 ## Realising plans
 
@@ -63,3 +63,5 @@ There is continued collaboration between many of the RSE leaders who took part i
 
 The organisers were: 
 Alys Brett (UKAEA), Robert Haines (University of Manchester), James Hetherington (The Alan Turing Institute), Simon Hettrick (Software Sustainability Institute), Mark Turner (Newcastle University), Chris Woods (University of Bristol), Claire Wyatt (University of Southampton)
+
+The outputs of the workshop were presented in a talk and <a href="http://rse.ac.uk/wp-content/uploads/2018/04/I-RSEL-poster.pdf">poster</a> at the EPSRC / SSI workshop on the impact of international reserach software collaboration.
