@@ -25,7 +25,7 @@ The RSE leaders networking group in the UK has been providing mutual support to 
 
 When the call for the EPSRC UK-USA RSE travel fund was published this seemed like an opportunity to kick-start the international workshop plans. We put out an email asking for interest from USA and had more than 20 responses within a few days. The award we won enabled five US RSE leaders to take part in the workshop. Further travel funding allowed two African attendees from Namibia and Sudan to make the trip. 
 
-Overall, 41 people from 11 countries took part in the workshop, including two who gave talks remotely from New Zealand and Brazil, making it a truly international event (though next time we need to work on finding contacts from Asia).
+The workshop was hosted at the Alan Turing Institute and places filled up quickly. 41 people from 11 countries took part, including two who gave talks remotely from New Zealand and Brazil, making it a truly international event (though next time we need to work on finding contacts from Asia).
 
 <!--img src="/img/intRSE_participnts_map.PNG" width=350px /-->
 
