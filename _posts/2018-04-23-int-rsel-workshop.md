@@ -39,7 +39,7 @@ Every participant spoke on the first day. The US travel fund recipients all gave
 
 Samar Elsheikh told the story of the challenges and fantastic success of the first ever Software Carpentry workshop in Sudan - trading places for routers to ensure internet access and 551 applications for 40 places with women making up over 50% of participants!
 
-Ian Cosden from Princeton spoke about the rapid growth of his new group which he is renaming the Research Software Engineering Group after interaction with the UK RSE community. Responses to his job adverts doubled when the posts were titled Research Software Engineer rather than Computational Research Applications Analyist (though both require care with acronyms). His description of the unique way the projects are funded and organised prompted a discussion about operating models and some envy from those with less institutional support. 
+Ian Cosden from Princeton spoke about the rapid growth of his new group which he is renaming the Research Software Engineering Group after interaction with the UK RSE community. Responses to his job adverts doubled when the posts were titled Research Software Engineer rather than Computational Research Applications Analyist. His description of the unique way the projects are funded and organised prompted a discussion about operating models and some envy from those with less institutional support. 
 
 The day ended with a session to decide on goals for the breakouts the following day. From some initial topics and suggestions, participants added ideas and indicated which they would like to work on. With plans in place, everyone headed to a nearby pub for the conference dinner.
 
@@ -47,9 +47,9 @@ The day ended with a session to decide on goals for the breakouts the following 
 
 The second day was devoted to getting things done with breakout sessions in “speed blogging” style - discussion followed by drafting of concrete outputs.
 
-There was a focus on improving RSE international web presence and communication. This international RSE website was created as well as one for the fledgling Nordic RSE association. Plans were made for future collaboration between RSE leaders RSE with further meetings or sessions planned at relevant upcoming conferences. A Wikipedia entry for Research Software Engineering was written and participants contributed to the effort to establish a research computing Q&A site on Stack Exchange - both of these efforts are seeking further contributors. The UK RSE Slack has been dropped the "UK" branding to serve as an international discussion platform.
+There was a focus on improving RSE international web presence and communication. This international RSE website was created as well as one for the fledgling Nordic RSE association. Plans were made for future collaboration between RSE leaders with further meetings or sessions planned at relevant upcoming conferences. A Wikipedia entry for Research Software Engineering was written and participants contributed to the effort to establish a research computing Q&A site on Stack Exchange - both of these efforts are seeking further contributors. The UK RSE Slack has been dropped the "UK" branding to serve as an international discussion platform.
 
-One group tackled the desire to share resources to help make the case for the value of RSEs by designing and setting up a repository for an international RSE “evidence bank” where (watch this space). Several discussion groups generated draft blog posts on topics from tips for starting an RSE network to tools and techniques for managing RSE work on a day-to-day basis and the first of these are now published. The interest in comparing RSE group operating models yielded a survey to gather information that is currently open.
+One group tackled the desire to share resources to help make the case for the value of RSEs by designing and setting up a repository for an international RSE “evidence bank” (watch this space). Several discussion groups drafted blog posts and the first of these is now published: [How to set up a national RSE association](https://researchsoftware.org/2018/04/18/how-to-setup.html). The interest in comparing RSE group operating models yielded a survey to gather information that is currently open.
 
 ## Inspiration for the future
 
@@ -64,4 +64,4 @@ There is continued collaboration between many of the RSE leaders who took part i
 The organisers were: 
 Alys Brett (UKAEA), Robert Haines (University of Manchester), James Hetherington (The Alan Turing Institute), Simon Hettrick (Software Sustainability Institute), Mark Turner (Newcastle University), Chris Woods (University of Bristol), Claire Wyatt (University of Southampton)
 
-The outputs of the workshop were presented in a talk and <a href="http://rse.ac.uk/wp-content/uploads/2018/04/I-RSEL-poster.pdf">poster</a> at the EPSRC / SSI workshop on the impact of international reserach software collaboration.
+The outputs of the workshop were presented in a talk and <a href="http://rse.ac.uk/wp-content/uploads/2018/04/I-RSEL-poster.pdf">poster for the EPSRC / SSI workshop</a> on the impact of international reserach software collaboration.
