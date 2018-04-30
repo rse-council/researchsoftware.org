@@ -49,7 +49,7 @@ The second day was devoted to getting things done with breakout sessions in “s
 
 There was a focus on improving RSE international web presence and communication. This international RSE website was created as well as one for the fledgling Nordic RSE association. Plans were made for future collaboration between RSE leaders with further meetings or sessions planned at relevant upcoming conferences. A Wikipedia entry for Research Software Engineering was written and participants contributed to the effort to establish a research computing Q&A site on Stack Exchange - both of these efforts are seeking further contributors. The UK RSE Slack has been dropped the "UK" branding to serve as an international discussion platform.
 
-One group tackled the desire to share resources to help make the case for the value of RSEs by designing and setting up a repository for an international RSE “evidence bank” (watch this space). Several discussion groups drafted blog posts and the first of these is now published: [How to set up a national RSE association](https://researchsoftware.org/2018/04/18/how-to-setup.html). The interest in comparing RSE group operating models yielded a survey to gather information that is currently open.
+One group tackled the desire to share resources to help make the case for the value of RSEs by designing and setting up a repository for an international RSE “evidence bank” (watch this space). Several discussion groups drafted blog posts and the first of these is now published: [How to set up a national RSE association](https://researchsoftware.org/2018/04/18/how-to-setup.html). A [survey on RSE group operating models](https://goo.gl/forms/nPZeP1osHXw44anr2) is currently open to gather information that can be shared to help people start and grow RSE groups.
 
 ## Inspiration for the future
 
@@ -64,4 +64,4 @@ There is continued collaboration between many of the RSE leaders who took part i
 The organisers were: 
 Alys Brett (UKAEA), Robert Haines (University of Manchester), James Hetherington (The Alan Turing Institute), Simon Hettrick (Software Sustainability Institute), Mark Turner (Newcastle University), Chris Woods (University of Bristol), Claire Wyatt (University of Southampton)
 
-The outputs of the workshop were presented in a talk and <a href="http://rse.ac.uk/wp-content/uploads/2018/04/I-RSEL-poster.pdf">poster for the EPSRC / SSI workshop</a> on the impact of international reserach software collaboration.
+The outputs of the workshop were presented in a talk and <a href="http://rse.ac.uk/wp-content/uploads/2018/04/I-RSEL-poster.pdf">poster for the EPSRC / SSI workshop</a> on the impact of international research software collaboration.
