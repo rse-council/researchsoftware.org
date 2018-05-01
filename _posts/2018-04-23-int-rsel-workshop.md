@@ -15,7 +15,7 @@ In January 2018, leaders of Research Software Engineering groups, networks and i
 
 ## International momentum 
 
-The last couple of years have seen fast-growing international interest in the RSE concept and the growth of RSE recognition and organisation in the the UK. Strong international representation at the first UK RSE conference led to the creation of the German and Dutch RSE associations. RSE leaders have been invited to speak on the subject at international conferences including in the US, Canada, New Zealand and Australia. RSE surveys have been run in several countries leading to valuable comparative data and providing an early focus for emerging communities. 
+The last couple of years have seen fast-growing international interest in the RSE concept and the growth of RSE recognition and organisation in the the UK. Strong international representation at the first UK RSE conference led to the creation of the German and Dutch RSE associations. RSE leaders have been invited to speak on the subject at international conferences including in Australia, Canada, New Zealand and USA. RSE surveys have been run in several countries leading to valuable comparative data and providing an early focus for emerging communities. 
 
 At RSE17 a well-attended international discussion session was held. It demonstrated that a lot of enthusiasm for international collaboration and support exists amongst the people trying to build RSE capacity in their countries. Lots of useful information and ideas emerged in that 90 minutes of discussion and I felt that a lot could be achieved at a dedicated workshop.
 
