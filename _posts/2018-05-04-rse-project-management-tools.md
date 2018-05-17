@@ -7,6 +7,8 @@ Managing an RSE team can involve carrying out a broad range of tasks relating to
 
 _Authors: **Mark Woodbridge** (Imperial College London), **James Meakin** (Radboud University Medical Center), **Jim Procter** (University of Dundee), **Jeffrey Salmond** (University of Cambridge), **Daniel Smith** (Virginia Tech)_
 
+<!--break-->
+
 Many of these management and co-ordination tasks are common to software development in an industrial setting, but some issues specific to RSE teams were identified:
 - RSE groups often adopt or collaborate on projects that have been developed in relatively decentralised organisations. Adopting projects may mean adopting their tools for issue management or communication. This can lead to a fragmented toolset.
 - RSE teams typically don’t have the resources to employ full-time staff to deploy and customise services that aren’t core to their operation
