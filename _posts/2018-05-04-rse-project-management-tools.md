@@ -5,7 +5,7 @@ title: "Tools for managing RSE projects"
 
 Managing an RSE team can involve carrying out a broad range of tasks relating to the management of people and projects. The exact nature of these tasks will depend on the size of team, and the how the leadership role is defined within any particular institution, but they typically include scheduling, resource allocation, reporting, communication, task management and record keeping. Our discussion at the [RSE Leaders Workshop](http://researchsoftware.org/2018/04/23/int-rsel-workshop.html) in January 2018 focused on sharing knowledge about effective tools for managing these processes.
 
-_Authors: **Mark Woodbridge** (Imperial College London), **James Meakin** (Radboud University Medical Center), **Jim Procter** (University of Dundee), **Jeffrey Salmond** (University of Cambridge), **Daniel Smith** (Virginia Tech)_
+_Authors: **Mark Woodbridge** (Imperial College London), **James Meakin** (Radboud University Medical Center), **Jim Procter** (University of Dundee), **Jeffrey Salmond** (University of Cambridge), **Daniel Smith** (The Molecular Sciences Software Institute)_
 
 <!--break-->
 
