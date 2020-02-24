@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2nd International RSE Leaders Workshop
+title: 2nd International RSE Leaders Workshop 2020
 ---
 
 # 2nd International RSE Leaders Workshop
