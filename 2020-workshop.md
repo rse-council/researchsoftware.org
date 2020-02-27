@@ -39,7 +39,6 @@ The call for applications will open in mid-March 2020.
 
 ## Organizers
 
-- Stephan Druskat (de-RSE / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany)
 - Alys Brett (TODO)
 - Anne Claire Fouilloux (TODO)
 - Ben van Werkhoven (TODO)
@@ -50,3 +49,4 @@ The call for applications will open in mid-March 2020.
 - Peter van Heusden (TODO)
 - Radovan Bast (TODO)
 - Simon J. Hettrick (TODO)
+- Stephan Druskat (de-RSE / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany)
