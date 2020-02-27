@@ -39,14 +39,14 @@ The call for applications will open in mid-March 2020.
 
 ## Organizers
 
-- Alys Brett (TODO)
-- Anne Claire Fouilloux (TODO)
-- Ben van Werkhoven (TODO)
-- Claire Wyatt (TODO)
-- Daniel S. Katz (TODO)
-- Eugene de Beste (TODO)
-- Ian A. Cosden (TODO)
-- Peter van Heusden (TODO)
-- Radovan Bast (TODO)
-- Simon J. Hettrick (TODO)
-- Stephan Druskat (de-RSE / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany)
+- Alys Brett
+- Anne Claire Fouilloux
+- Ben van Werkhoven
+- Claire Wyatt
+- Daniel S. Katz
+- Eugene de Beste
+- Ian A. Cosden
+- Peter van Heusden
+- Radovan Bast
+- Simon J. Hettrick
+- Stephan Druskat <!-- (de-RSE / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany) -->
