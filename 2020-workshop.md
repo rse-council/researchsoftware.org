@@ -39,7 +39,7 @@ The call for applications will open in mid-March 2020.
 
 ## Organizers
 
-- Stephan Druskat (de-RSE e.V. - Society for Research Software, German Aerospace Center (DLR), Friedrisch Schiller Univ Jena, Germany, Humboldt-Universität zu Berlin, Germany)
+- Stephan Druskat (de-RSE / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany)
 - Alys Brett (TODO)
 - Anne Claire Fouilloux (TODO)
 - Ben van Werkhoven (TODO)
