@@ -24,7 +24,7 @@ and establishing collaboration.
 You can read more about the workshop here: <https://researchsoftware.org/2018/04/23/int-rsel-workshop.html>.
 
 
-This year’s two-day event is a continuation of that collaboration.
+This year's two-day event is a continuation of that collaboration.
 It features one day of presentations, discussions, networking and knowledge exchange with leaders of 
 established RSE initiatives, to learn from each other about strategies and options to set up an RSE 
 association or group, as well as how to build communities, collaborate, lobby and drive progress in 
