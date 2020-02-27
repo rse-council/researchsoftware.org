@@ -6,6 +6,7 @@ title: 2nd International RSE Leaders Workshop 2020
 # 2nd International RSE Leaders Workshop
 
 > **Date:** 16-17 June 2020
+> **Location:** Northern Europe (tba)
 
 The **2nd International RSE Leaders Meeting** will bring together established and aspiring leaders from the 
 international Research Software Engineering community for a two-day event of networking, knowledge exchange, 
@@ -35,3 +36,17 @@ Apply for participation if you want to start, or already lead, an RSE community 
 and want to connect with like-minded people from the international community.
 
 The call for applications will open in mid-March 2020.
+
+## Organizers
+
+- Stephan Druskat (de-RSE e.V. - Society for Research Software, German Aerospace Center (DLR), Friedrisch Schiller Univ Jena, Germany, Humboldt-Universität zu Berlin, Germany)
+- Alys Brett (TODO)
+- Anne Claire Fouilloux (TODO)
+- Ben van Werkhoven (TODO)
+- Claire Wyatt (TODO)
+- Daniel S. Katz (TODO)
+- Eugene de Beste (TODO)
+- Ian A. Cosden (TODO)
+- Peter van Heusden (TODO)
+- Radovan Bast (TODO)
+- Simon J. Hettrick (TODO)
