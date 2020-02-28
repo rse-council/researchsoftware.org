@@ -8,7 +8,7 @@ title: 2nd Intl. RSE Leaders Workshop 2020
 
 ![Edited group photo from the deRSE19 conference.](./img/derse.png)
 
-<span style="font-size:smaller">Photo by Antonia Cozacu, Jan Philipp Dietrich, de-RSE e.V. (CC BY 4.0).</span>
+<span style="font-size:x-small">Photo by Antonia Cozacu, Jan Philipp Dietrich, de-RSE e.V. (CC BY 4.0).</span>
 
 The **2nd International RSE Leaders Meeting** will bring together established and aspiring leaders from the 
 international Research Software Engineering community for a two-day event of networking, knowledge exchange, 
