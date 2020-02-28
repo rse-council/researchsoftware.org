@@ -51,4 +51,4 @@ The call for applications will open in mid-March 2020.
 - Peter van Heusden
 - Radovan Bast
 - Simon J. Hettrick
-- Stephan Druskat <!-- (de-RSE / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany) -->
+- Stephan Druskat (de-RSE / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany)
