@@ -49,6 +49,6 @@ The call for applications will open in mid-March 2020.
 - Eugene de Beste (African RSSE / South African National Bioinformatics Institute / ZA)
 - Ian A. Cosden (US-RSE / Princeton University / USA)
 - Peter van Heusden (African RSSE / South African National Bioinformatics Institute / ZA)
-- Radovan Bast (Nordic RSE / Arctic University of Norway / NO)
+- Radovan Bast (Nordic RSE / UiT The Arctic University of Norway / NO)
 - Simon J. Hettrick (Society of Research Software Engineering / University of Southampton / UK)
 - Stephan Druskat (de-RSE - Society for Research Software / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany)
