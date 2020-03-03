@@ -41,14 +41,14 @@ The call for applications will open in mid-March 2020.
 
 ## Organizers
 
-- Alys Brett
-- Anne Claire Fouilloux
-- Ben van Werkhoven
-- Claire Wyatt
-- Daniel S. Katz
-- Eugene de Beste
-- Ian A. Cosden
-- Peter van Heusden
-- Radovan Bast
-- Simon J. Hettrick
-- Stephan Druskat (de-RSE / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany)
+- Alys Brett (Society of Research Software Engineering / UK Atomic Energy Authority / UK)
+- Anne Claire Fouilloux (Nordic RSE / University of Oslo / NO)
+- Ben van Werkhoven (NL-RSE / Netherlands eScience Center / NL)
+- Claire Wyatt (Society of Research Software Engineering / University of Southampton / UK)
+- Daniel S. Katz (US-RSE / National Center for Supercomputing Applications, University of Illinois Urbana-Champaign / USA)
+- Eugene de Beste (African RSSE / South African National Bioinformatics Institute / ZA)
+- Ian A. Cosden (US-RSE / Princeton University / USA)
+- Peter van Heusden (African RSSE / South African National Bioinformatics Institute / ZA)
+- Radovan Bast (Nordic RSE / Arctic University of Norway / NO)
+- Simon J. Hettrick (Society of Research Software Engineering / University of Southampton / UK)
+- Stephan Druskat (de-RSE - Society for Research Software / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany)
