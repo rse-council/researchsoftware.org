@@ -45,7 +45,7 @@ The call for applications will open in mid-March 2020.
 - Anne Claire Fouilloux (Nordic RSE / University of Oslo / NO)
 - Ben van Werkhoven (NL-RSE / Netherlands eScience Center / NL)
 - Claire Wyatt (Society of Research Software Engineering / University of Southampton / UK)
-- Daniel S. Katz (US-RSE / National Center for Supercomputing Applications, University of Illinois Urbana-Champaign / USA)
+- Daniel S. Katz (US-RSE / University of Illinois Urbana-Champaign / USA)
 - Eugene de Beste (African RSSE / South African National Bioinformatics Institute / ZA)
 - Ian A. Cosden (US-RSE / Princeton University / USA)
 - Peter van Heusden (African RSSE / South African National Bioinformatics Institute / ZA)
