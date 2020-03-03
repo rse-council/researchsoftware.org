@@ -10,7 +10,7 @@ title: 2nd Intl. RSE Leaders Workshop 2020
 
 <span style="font-size:x-small">Photo by Antonia Cozacu, Jan Philipp Dietrich, de-RSE e.V. (CC BY 4.0).</span>
 
-The **2nd International RSE Leaders Meeting** will bring together established and aspiring leaders from the 
+The **2nd International RSE Leaders Meeting** will bring together established and aspiring activists and influencers from the 
 international Research Software Engineering community for a two-day event of networking, knowledge exchange, 
 and hands-on collaboration towards our common goal to establish research software as a first-class citizen in 
 research all over the world, and support the creation of academic careers for Research Software Engineers on 
