@@ -3,7 +3,7 @@ layout: page
 title: 2nd Intl. RSE Leaders Workshop 2020
 ---
 
-> **Date:** 16-17 June 2020  
+> **Date:** ~~16-17 June 2020~~ to be announced (potentially postponed due to COVID-19)  
 > **Location:** Northern Europe (tba)
 
 ![Edited group photo from the deRSE19 conference.](./img/derse.png)
