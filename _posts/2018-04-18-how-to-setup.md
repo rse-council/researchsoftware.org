@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to setup a national RSE association?"
+title: "How to set up a national RSE association?"
 ---
 
 Authors: James Hetherington *Alan Turing Institute*,
