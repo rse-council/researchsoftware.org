@@ -13,7 +13,7 @@ title: Associations
 
 [🇳🇴🇸🇪🇫🇮🇩🇰🇮🇸 NORDIC-RSE - Nordic Research Software Engineers Community](http://nordic-rse.org/)
 
-[US-RSE - The US Research Software Engineer Community](http://us-rse.org/) (website still under construction)
+[🇺🇸 US-RSE - The US Research Software Engineer Association](http://us-rse.org/)
 
 
 

@@ -10,7 +10,7 @@ Research Software Engineers are people who combine professional software experti
 [DE-RSE - Society for Research Software in Germany](http://de-rse.org)  <br />
 [NL-RSE - The community of Research Software Engineers in the Netherlands](http://nl-rse.org)  <br />
 [NORDIC-RSE - Nordic Research Software Engineers Community](http://nordic-rse.org/) <br />
-[US-RSE - The US Research Software Engineer Community](http://us-rse.org/) <br />
+[US-RSE - The US Research Software Engineer Association](http://us-rse.org/) <br />
 
 See [the Associations page](http://researchsoftware.org/assoc.html)
 
