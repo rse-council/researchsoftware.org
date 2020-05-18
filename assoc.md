@@ -5,7 +5,7 @@ title: Associations
 
 # Links to National RSE associations
 
-[🇬🇧 UK RSE - UK Research Software Engineers Association](http://rse.ac.uk/)
+[🇬🇧 Society of Research Software Engineering - UK](https://society-rse.org/)
 
 [🇩🇪 DE-RSE - Society for Research Software in Germany](http://de-rse.org)
 
