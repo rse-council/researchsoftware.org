@@ -19,6 +19,8 @@ title: Associations
 
 # National RSE Associations under construction...
 
+Belgium - There is a group of people working on setting up an [RSE community in Belgium](https://be-rse.org) with a first event in December 2020.
+
 🇦🇺🇳🇿 Australia and New Zealand - see this [article](https://www.ands.org.au/partners-and-communities/ands-communities/research-software-engineers-community-group) and find the [initial steering committee on Github](https://github.com/rse-aunz/rse-au/)
 
 # Starting a National RSE association
