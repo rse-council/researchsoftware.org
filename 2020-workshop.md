@@ -3,7 +3,7 @@ layout: page
 title: 2nd Intl. RSE Leaders Workshop 2020
 ---
 
-> **Date:** mid-September (2 + 1 half days)  
+> **Date:** mid-September (three half days)  
 > **Location:** online
 
 ![Edited group photo from the deRSE19 conference.](./img/derse.png)
@@ -11,7 +11,7 @@ title: 2nd Intl. RSE Leaders Workshop 2020
 <span style="font-size:x-small">Photo by Antonia Cozacu, Jan Philipp Dietrich, de-RSE e.V. (CC BY 4.0).</span>
 
 The **2nd International RSE Leaders Meeting** will bring together established and aspiring activists and influencers from the 
-international Research Software Engineering community for a two-day event of networking, knowledge exchange, 
+international Research Software Engineering community for a three-half-days event of networking, knowledge exchange, 
 and hands-on collaboration towards our common goal to establish research software as a first-class citizen in 
 research all over the world, and support the creation of academic careers for Research Software Engineers on 
 an international level.
@@ -26,7 +26,7 @@ and establishing collaboration.
 You can read more about the workshop here: <https://researchsoftware.org/2018/04/23/int-rsel-workshop.html>.
 
 
-This year's two-plus-one-day event is a continuation of that collaboration.
+This year's three-half-days is a continuation of that collaboration.
 It features one half day of presentations, discussions, networking and knowledge exchange with leaders of 
 established RSE initiatives, to learn from each other about strategies and options to set up an RSE 
 association or group, as well as how to build communities, collaborate, lobby and drive progress in 
