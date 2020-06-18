@@ -3,8 +3,8 @@ layout: page
 title: 2nd Intl. RSE Leaders Workshop 2020
 ---
 
-> **Date:** ~~16-17 June 2020~~ to be announced (potentially postponed due to COVID-19)  
-> **Location:** Northern Europe (tba)
+> **Date:** mid-September (2 + 1 half days)  
+> **Location:** online
 
 ![Edited group photo from the deRSE19 conference.](./img/derse.png)
 
@@ -26,18 +26,20 @@ and establishing collaboration.
 You can read more about the workshop here: <https://researchsoftware.org/2018/04/23/int-rsel-workshop.html>.
 
 
-This year's two-day event is a continuation of that collaboration.
-It features one day of presentations, discussions, networking and knowledge exchange with leaders of 
+This year's two-plus-one-day event is a continuation of that collaboration.
+It features one half day of presentations, discussions, networking and knowledge exchange with leaders of 
 established RSE initiatives, to learn from each other about strategies and options to set up an RSE 
 association or group, as well as how to build communities, collaborate, lobby and drive progress in 
 Research Software Engineering.
-On the second day of the event, we will collaborate hands-on to devise solutions for international 
+On the second half day of the event, we will collaborate hands-on to devise solutions for international 
 organization and collaboration, and work together to strengthen the role of RSEs in the academic environment.
+
+To support asynchronous collaboration beyond the limited time of the second day, the workshop will feature a third half-day session in the week after the first two. In this third session, collaborative groups will have the chance to present their results, and plan future activities.
 
 Apply for participation if you want to start, or already lead, an RSE community (beyond a single institution) 
 and want to connect with like-minded people from the international community.
 
-The call for applications will open in mid-March 2020.
+The call for applications will open in late June 2020.
 
 ## Organizers
 
@@ -51,4 +53,4 @@ The call for applications will open in mid-March 2020.
 - Peter van Heusden (African RSSE / South African National Bioinformatics Institute / ZA)
 - Radovan Bast (Nordic RSE / UiT The Arctic University of Norway / NO)
 - Simon J. Hettrick (Society of Research Software Engineering / University of Southampton / UK)
-- Stephan Druskat (de-RSE - Society for Research Software / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / Germany)
+- Stephan Druskat (de-RSE - Society for Research Software / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / DE)
