@@ -5,7 +5,8 @@ title: 2nd Intl. RSE Leaders Workshop 2020
 
 > **Dates:** Tue 15th-Wed 16th September + Wed 30th September 2020 (3 half days)  
 > **Location:** online  
-> **Application form: <https://bit.ly/intl-rse-leaders-2020-application>**
+> **Application form:** <https://bit.ly/intl-rse-leaders-2020-application>  
+> **Deadline for applications:** 31 July 2020 (23:59 in your timezone)
 
 ![Edited group photo from the deRSE19 conference.](./img/derse.png)
 
@@ -49,8 +50,8 @@ The workshop sessions will be run at a time that allows for the broadest partici
 Apply for participation if you want to start, or already lead, an RSE community (beyond a single institution) 
 and want to connect with like-minded people from the international community.
 
-**The call for applications is now open!**  
-**Please apply using this form: <https://bit.ly/intl-rse-leaders-2020-application>.**
+#### **The call for applications is open!**  
+#### **Please apply by 31 July 2020 (23:59 in your timezone) using this form: <https://bit.ly/intl-rse-leaders-2020-application>.**
 
 ## Organizers
 
