@@ -12,34 +12,26 @@ title: 2nd Intl. RSE Leaders Workshop 2020
 
 <span style="font-size:x-small">Photo by Antonia Cozacu, Jan Philipp Dietrich, de-RSE e.V. (CC BY 4.0).</span>
 
-The **2nd International RSE Leaders Meeting** will bring together established and aspiring activists and influencers from the 
+The **2nd International RSE Leaders Meeting** brings together established and aspiring leaders (activists and influencers) from the 
 international Research Software Engineering community for a three-half-days event of networking, knowledge exchange, 
-and hands-on collaboration towards our common goal to establish research software as a first-class citizen in 
-research all over the world, and support the creation of academic careers for Research Software Engineers on 
-an international level.
+and hands-on collaboration.
 
-We invite people with a vision to start, establish, consolidate, or advance a Research Software Engineering 
-community in their own national, regional or domain-specific ecosystem to apply for participation.
+It is the perfect opportunity to meet with key representatives from the established RSE communities from around the world. The meeting will provide aspiring leaders with the knowledge and contacts needed to establish research software engineering in their own countries, and will advance our shared goal of software becoming a first-class research output.
 
-In 2018, the first International RSE Leaders Workshop, organized by the UK RSE Association, took place at 
-the Alan Turing Institute in London, UK.
-It aimed at improving access to software expertise in research, by pooling knowledge, coordinating efforts 
-and establishing collaboration.
-You can read more about the workshop here: <https://researchsoftware.org/2018/04/23/int-rsel-workshop.html>.
+Places at the meeting are strictly limited. We are looking for applications from people with a vision to start or advance a Research Software Engineering community in their own region or country, or within a specific domain or discipline. Here, keenness is more important than seniority.
+
+In 2018, the first International RSE Leaders Workshop, organized by the UK RSE Association, took place at the Alan Turing Institute in London, UK. [Amongst other successes](https://researchsoftware.org/2018/04/23/int-rsel-workshop.html), it saw the foundation of the Nordic RSE community and helped improve access to software expertise in research.
 
 ### Days 1 & 2
 
 This year's three-half-days is a continuation of that collaboration.
-It features one half day (**Tuesday, 15th September 2020**) of presentations, discussions, networking and knowledge exchange with leaders of 
-established RSE initiatives, to learn from each other about strategies and options to set up an RSE 
-association or group, as well as how to build communities, collaborate, lobby and drive progress in 
-Research Software Engineering.
-On the second half day of the event (**Wednesday, 16th September 2020**), we will collaborate hands-on to devise solutions for international 
-organization and collaboration, and work together to strengthen the role of RSEs in the academic environment.
+It features one half day (**Tuesday, 15th September 2020**) of presentations and discussions with established RSE leaders about strategies used to establish RSE communities and associations. These will focus on the practical steps needed to build communities, collaborate, lobby and drive progress in Research Software Engineering.
+
+The second half day of the event (**Wednesday, 16th September 2020**) will be dedicated to hands-on collaboration during which attendees will help devise solutions for strengthening international cooperation and organization, and work together to advance the role of RSEs in research.
 
 ### Day 3
 
-To support asynchronous collaboration beyond the limited time of the second day, the workshop will feature a third half-day session two weeks after the first two, on **Wednesday, 30th September 2020**. In this third session, collaborative groups will have the chance to present their results, and plan future activities.
+To support asynchronous collaboration beyond the limited time of the second day, the workshop will feature a third half-day session two weeks after the first two, on **Wednesday, 30th September 2020**. In this third session, collaborative groups present their results, and plan future activities.
 
 ### Session times
 
