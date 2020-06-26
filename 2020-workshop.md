@@ -3,7 +3,7 @@ layout: page
 title: 2nd Intl. RSE Leaders Workshop 2020
 ---
 
-> **Date:** mid-September (three half days)  
+> **Dates:** Tue 15th-Wed 16th September + Wed 30th September 2020 (3 half days)  
 > **Location:** online
 
 ![Edited group photo from the deRSE19 conference.](./img/derse.png)
@@ -27,19 +27,21 @@ You can read more about the workshop here: <https://researchsoftware.org/2018/04
 
 
 This year's three-half-days is a continuation of that collaboration.
-It features one half day of presentations, discussions, networking and knowledge exchange with leaders of 
+It features one half day (**Tuesday, 15th September 2020**) of presentations, discussions, networking and knowledge exchange with leaders of 
 established RSE initiatives, to learn from each other about strategies and options to set up an RSE 
 association or group, as well as how to build communities, collaborate, lobby and drive progress in 
 Research Software Engineering.
-On the second half day of the event, we will collaborate hands-on to devise solutions for international 
+On the second half day of the event (**Wednesday, 16th September 2020**), we will collaborate hands-on to devise solutions for international 
 organization and collaboration, and work together to strengthen the role of RSEs in the academic environment.
 
-To support asynchronous collaboration beyond the limited time of the second day, the workshop will feature a third half-day session in the week after the first two. In this third session, collaborative groups will have the chance to present their results, and plan future activities.
+To support asynchronous collaboration beyond the limited time of the second day, the workshop will feature a third half-day session two weeks after the first two, on **30th September 2020**. In this third session, collaborative groups will have the chance to present their results, and plan future activities.
 
 Apply for participation if you want to start, or already lead, an RSE community (beyond a single institution) 
 and want to connect with like-minded people from the international community.
 
 The call for applications will open in late June 2020.
+
+The workshop sessions will be run at a time that allows for the broadest participation possible, based on a poll of participants to determine the schedule.
 
 ## Organizers
 
