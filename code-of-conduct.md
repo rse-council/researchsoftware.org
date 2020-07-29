@@ -61,7 +61,7 @@ Excessive swearing is not appropriate at this event.
 
 If a participant engages in behaviour that violates this code of conduct, the
 workshop organisers may take any action they deem appropriate, including
-warning the offender or expulsion from the workshop with no refund.
+warning the offender or expulsion from the workshop.
 
 
 ## Procedure for reporting harassment
