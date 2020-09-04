@@ -5,8 +5,7 @@ title: 2nd Intl. RSE Leaders Workshop 2020
 
 > **Dates:** Tue 15th-Wed 16th September + Wed 30th September 2020 (3 half days)  
 > **Location:** online  
-> **Application form:** <https://bit.ly/intl-rse-leaders-2020-application>  
-> **Deadline for applications:** 31 July 2020 (23:59 in your timezone)
+> **Agenda:** [Link to the agenda](2020-workshop/agenda.html)
 
 ![Edited group photo from the deRSE19 conference.](./img/derse.png)
 
@@ -22,28 +21,9 @@ Places at the meeting are strictly limited. We are looking for applications from
 
 In 2018, the first International RSE Leaders Workshop, organized by the UK RSE Association, took place at the Alan Turing Institute in London, UK. [Amongst other successes](https://researchsoftware.org/2018/04/23/int-rsel-workshop.html), it saw the foundation of the Nordic RSE community and helped improve access to software expertise in research.
 
-### Days 1 & 2
+This year's three-half-days event is a continuation of that collaboration.
 
-This year's three-half-days is a continuation of that collaboration.
-It features one half day (**Tuesday, 15th September 2020**) of presentations and discussions with established RSE leaders about strategies used to establish RSE communities and associations. These will focus on the practical steps needed to build communities, collaborate, lobby and drive progress in Research Software Engineering.
-
-The second half day of the event (**Wednesday, 16th September 2020**) will be dedicated to hands-on collaboration during which attendees will help devise solutions for strengthening international cooperation and organization, and work together to advance the role of RSEs in research.
-
-### Day 3
-
-To support asynchronous collaboration beyond the limited time of the second day, the workshop will feature a third half-day session two weeks after the first two, on **Wednesday, 30th September 2020**. In this third session, collaborative groups present their results, and plan future activities.
-
-### Session times
-
-The workshop sessions will be run at a time that allows for the broadest participation possible, based on a poll of participants to determine the schedule.
-
-## Apply for participation!
-
-Apply for participation if you want to start, or already lead, an RSE community (beyond a single institution) 
-and want to connect with like-minded people from the international community.
-
-#### **The call for applications is open!**  
-#### **Please apply by 31 July 2020 (23:59 in your timezone) using this form: <https://bit.ly/intl-rse-leaders-2020-application>.**
+It features presentations and discussions, as well as hands-on collaboration. To support asynchronous collaboration beyond the limited time of the first two half-days, the workshop will feature a third half-day session two weeks after the first two, on **Wednesday, 30th September 2020**. In this third session, collaborative groups present their results, and plan future activities.
 
 ## Organizers
 
