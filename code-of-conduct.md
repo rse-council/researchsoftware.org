@@ -70,7 +70,7 @@ If you are being harassed, notice that someone else is being harassed, or have
 any other concerns, please contact any member of the code of conduct committee
 via email or direct message using the workshop Slack chat:
 
-- Anne Fouilloux
+- Anne Fouilloux (annefou@uio.no)
 - Ian Cosden
 - Radovan Bast (radovan.bast@uit.no)
 
