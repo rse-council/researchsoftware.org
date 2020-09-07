@@ -93,7 +93,7 @@ After the code of conduct committee receives a report, a decision will be made
 as quickly as possible and any decisions made by the code of conduct will be
 enforced immediately.
 
-The code of conduct committee is well informed on how to deal with the incident
+The code of conduct committee is well informed on how to deal with an incident.
 and how to further proceed with the situation.  All of our committee members
 are informed of the code of conduct policy and guide for handling harassment at
 the workshop. There will be a mandatory meeting for the code of conduct
