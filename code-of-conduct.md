@@ -74,7 +74,6 @@ via email or direct message using the workshop Slack chat:
 - Ian Cosden
 - Radovan Bast (radovan.bast@uit.no)
 
-
 Report the harassment incident via email to a member of the code of conduct
 committee. All reports are confidential.
 
@@ -89,6 +88,10 @@ The important information we need consists of:
 - The approximate time of the behaviour (if different than the time the report was made)
 - The circumstances surrounding the incident
 - Other people involved in the incident
+
+After the code of conduct committee receives a report, a decision will be made
+as quickly as possible and any decisions made by the code of conduct will be
+enforced immediately.
 
 The code of conduct committee is well informed on how to deal with the incident
 and how to further proceed with the situation.  All of our committee members
