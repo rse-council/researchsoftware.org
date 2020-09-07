@@ -84,7 +84,7 @@ information.
 
 The important information we need consists of:
 - Identifying information (name) of the participant doing the harassing
-- The behaviour that was in violation
+- The behaviour that was potentially in violation
 - The approximate time of the behaviour (if different than the time the report was made)
 - The circumstances surrounding the incident
 - Other people involved in the incident
