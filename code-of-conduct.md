@@ -67,9 +67,13 @@ warning the offender or expulsion from the workshop.
 ## Procedure for reporting harassment
 
 If you are being harassed, notice that someone else is being harassed, or have
-any other concerns, please contact any member of the code of conduct committee:
+any other concerns, please contact any member of the code of conduct committee
+via email or direct message using the workshop Slack chat:
 
-**Here we will list members of the code of conduct committee.**
+- Anne Fouilloux
+- Ian Cosden
+- Radovan Bast (radovan.bast@uit.no)
+
 
 Report the harassment incident via email to a member of the code of conduct
 committee. All reports are confidential.
