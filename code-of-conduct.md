@@ -96,5 +96,5 @@ enforced immediately.
 The code of conduct committee is well informed on how to deal with the incident
 and how to further proceed with the situation.  All of our committee members
 are informed of the code of conduct policy and guide for handling harassment at
-the workshop. There will be a mandatory code of conduct committee meeting just
-prior to the event when this will be reiterated as well.
+the workshop. There will be a mandatory meeting for the code of conduct
+committee members just prior to the event when this will be reiterated as well.
