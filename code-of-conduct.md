@@ -71,7 +71,7 @@ any other concerns, please contact any member of the code of conduct committee
 via email or direct message using the workshop Slack chat:
 
 - Anne Fouilloux (annefou@uio.no)
-- Ian Cosden
+- Ian Cosden (icosden@princeton.edu)
 - Radovan Bast (radovan.bast@uit.no)
 
 Report the harassment incident via email to a member of the code of conduct
