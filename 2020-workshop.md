@@ -5,7 +5,8 @@ title: 2nd Intl. RSE Leaders Workshop 2020
 
 > **Dates:** Tue 15th-Wed 16th September + Wed 30th September 2020 (3 half days)  
 > **Location:** online  
-> **Agenda:** [Link to the agenda](2020-workshop/agenda.html)
+> **Agenda:** [Link to the agenda](2020-workshop/agenda.html)  
+> **Code of Conduct:** [Link to the Code of Conduct](2020-workshop/code-of-conduct.html)
 
 ![Edited group photo from the deRSE19 conference.](./img/derse.png)
 
