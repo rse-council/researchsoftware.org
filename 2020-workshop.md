@@ -28,14 +28,13 @@ It features presentations and discussions, as well as hands-on collaboration. To
 
 ## Organizers
 
-- Alys Brett (Society of Research Software Engineering / UK Atomic Energy Authority / UK)
 - Anne Claire Fouilloux (Nordic RSE / University of Oslo / NO)
 - Ben van Werkhoven (NL-RSE / Netherlands eScience Center / NL)
 - Claire Wyatt (Society of Research Software Engineering / University of Southampton / UK)
 - Daniel S. Katz (US-RSE / University of Illinois Urbana-Champaign / USA)
-- Eugene de Beste (African RSSE / South African National Bioinformatics Institute / ZA)
 - Ian A. Cosden (US-RSE / Princeton University / USA)
+- Johan Philips (beRSE / KU Leuven / BE)
 - Peter van Heusden (African RSSE / South African National Bioinformatics Institute / ZA)
 - Radovan Bast (Nordic RSE / UiT The Arctic University of Norway / NO)
 - Simon J. Hettrick (Society of Research Software Engineering / University of Southampton / UK)
-- Stephan Druskat (de-RSE - Society for Research Software / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / DE)
+- Stephan Druskat (de-RSE - Society for Research Software / German Aerospace Center (DLR), Friedrich Schiller University Jena, Humboldt-Universität zu Berlin / DE), chair
