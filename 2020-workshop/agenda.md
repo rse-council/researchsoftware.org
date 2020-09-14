@@ -22,7 +22,7 @@ title: 2nd Intl. RSE Leaders Workshop 2020 - Agenda
 ### Day 2 (16 September)
 
 - **Welcome back** - [12:30 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Welcome+back&iso=20200916T1230&p1=1440&am=10)
-- **Invited talk (:tada: Neil Chue Hong, SSI & EPCC)** - [12:40 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Invited+talk&iso=20200916T1240&p1=1440&am=30)
+- **Invited talk (Neil Chue Hong, SSI & EPCC)** - [12:40 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Invited+talk&iso=20200916T1240&p1=1440&am=30)
 - **Brief presentations of work plan from groups** - [13:10 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Brief+presentations+of+work+plan+from+groups&iso=20200916T1310&p1=1440&am=30)
 - **Collaborative session 2** - [13:40 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+session+2&iso=20200916T1340&p1=1440&ah=2&am=30)
 - **Break(s)**
