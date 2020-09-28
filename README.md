@@ -24,4 +24,4 @@ The International Network of RSE Associations (behind this site) was established
 
 # Interim maintainer
 
-Governance for this repository is still under construction. In the meantime, @sdruskat will be able to do maintenance work.
+Governance for this repository is still under construction. In the meantime, [@sdruskat](https://github.com/sdruskat/) will be able to do maintenance work. Please open a new issue and @-mention him in it.
