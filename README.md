@@ -21,3 +21,7 @@ In January, leaders of national RSE associations, groups and related initiatives
 The International Network of RSE Associations (behind this site) was established as a loose grouping of the people leading national associations or in the process of setting them up and can be reached via the contact link.
 
 # Blogposts
+
+# Interim maintainer
+
+Governance for this repository is still under construction. In the meantime, @sdruskat will be able to do maintenance work.
