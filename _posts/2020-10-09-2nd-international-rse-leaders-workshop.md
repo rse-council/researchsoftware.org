@@ -7,11 +7,11 @@ image: /img/2nd-intl-leaders.png
 Pictured: A COVID-19-compatible "group photo" of most of the workshop
 participants.
 
-***Organizers:** Stephan Druskat (de-RSE), Radovan Bast (Nordic RSE), Ian A.
-Cosden (US-RSE), Anne Claire Fouilloux (Nordic RSE), Simon J. Hettrick
-(Society of Research Software Engineering, UK), Daniel S. Katz (US-RSE),
-Johan Philips (beRSE), Peter van Heusden (African RSSE), Ben van
-Werkhoven (NL-RSE), Claire Wyatt (Society of Research Software
+**Organizers:** *Stephan Druskat* (de-RSE), *Radovan Bast* (Nordic RSE), *Ian A.
+Cosden* (US-RSE), *Anne Claire Fouilloux* (Nordic RSE), *Simon J. Hettrick*
+(Society of Research Software Engineering, UK), *Daniel S. Katz* (US-RSE),
+*Johan Philips* (beRSE), *Peter van Heusden* (African RSSE), *Ben van
+Werkhoven* (NL-RSE), *Claire Wyatt* (Society of Research Software
 Engineering, UK)*
 
 In 2018, the first International RSE Leaders Workshop took place in
@@ -178,6 +178,8 @@ should be able to consider. There already are a vast number of resources
 pertaining to this or that aspect out there, so instead of creating yet
 another resource for RSEs, this group has worked to provide entry points
 and a structure to the available information.
+
+**→ Read the [detailed blog post](../../10/26/research-software-engineers-toolkit)!**
 
 #### Who are we \...
 
