@@ -165,6 +165,8 @@ group worked on ideas to enrich the content of the website with
 structured information on Research Software Engineers and to make it
 generally more useful to worldwide RSE communities.
 
+**→ Read the [detailed blog post](../../11/03/single-entry-point-and-marketplace-for-the-RSE-community-RSE-profile-map)!**
+
 #### Find out and learn what it takes to be an RSE
 
 There is no one job description for RSEs; we come in at least as many
