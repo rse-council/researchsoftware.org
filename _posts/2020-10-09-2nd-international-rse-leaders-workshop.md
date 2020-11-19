@@ -206,6 +206,8 @@ working on structured information for individual RSEs, this group set
 out to gather and provide existing knowledge, and plans to enrich it
 through means of a set of interviews and/or a survey.
 
+**→ Read the [detailed blog post](../../11/19/how-do-RSE-groups-work)!**
+
 #### Communities at the centre of Research Software Engineering
 
 Some workshop groups have focused on individual RSEs, some on RSE

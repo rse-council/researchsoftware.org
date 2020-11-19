@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How do RSE groups work?"
-subtitle: "An RSE Leadership Workshop 2020 working group report"
 image: /img/how-do-rse-groups-work.png
 ---
 
@@ -64,6 +63,8 @@ roles are rather novel, so it can be difficult to structure such a group
 or find a place in relatively rigid academic structures. How should a
 fledgling group leader organize their group? What are the pitfalls of
 different structures/models?
+
+<!--break-->
 
 ### Our Approach: Learn What Works (And What Doesn't)
 
