@@ -8,7 +8,7 @@ Photo by form on [PxHere](https://pxhere.com/en/photo/957026) (CC-0).
 
 **Authors**
 
--   Will Usher, KTH Royal Institute of Technology,
+-   Will Usher, KTH Royal Institute of Technology, Sweden,
     [*wusher@kth.se*](mailto:wusher@kth.se),
     [*0000-0001-9367-1791*](https://orcid.org/0000-0001-9367-1791)
 -   Neil Chue Hong, University of Edinburgh, United Kingdom,
