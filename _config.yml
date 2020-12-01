@@ -23,3 +23,9 @@ header_pages:
 # Build settings
 markdown: kramdown
 theme: minima
+
+cc-by: >-
+  <hr>
+  <br/>
+  ![Badge for the Creative Commons BY license](/img/cc-by.png)<br/>
+  This post is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
