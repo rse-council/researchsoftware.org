@@ -56,3 +56,5 @@ The work undertaken as part of the International RSE Leaders Workshop 2020 has e
 ### Find out more, get involved
 
 The RSEToolkit is avialable at [https://rsetoolkit.github.io](https://rsetoolkit.github.io). We welcome contributions to the resource via our [GitHub repository](https://github.com/RSEToolkit/RSEToolkit.github.io). See our [contributing guidelines](https://github.com/RSEToolkit/RSEToolkit.github.io/blob/main/CONTRIBUTING.md). We're also happy to receive suggestions of things you'd like to see included in the toolkit - let us know by [creating an issue](https://github.com/RSEToolkit/RSEToolkit.github.io/issues/new/choose). Finally, if you're a member of the UK RSE Slack workspace, you can join the discussion about the RSE Toolkit on the [#rsetoolkit](https://ukrse.slack.com/archives/C01AM13K230) channel.
+
+{{ site.cc-by }}
