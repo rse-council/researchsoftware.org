@@ -272,4 +272,4 @@ your association internationally! Please make your brand new association
 known to the
 [international network of RSE associations](http://researchsoftware.org/)!
 
-
+{{ site.cc-by }}
