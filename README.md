@@ -1,23 +1,29 @@
-# Research Software Engineers
+# Website of the international RSE community
 
-This is the website of the international research software engineering community.  
+A static website created using Jekyll
 
-Research Software Engineers are people who combine professional software expertise with an understanding of research. They go by various job titles but the term Research Software Engineer (RSE) is fast gaining international recognition.
+## Install
 
-# National RSE Associations
+This project uses [Ruby](https://www.ruby-lang.org) with *bundler* and [Jekyll](https://jekyllrb.com). Install them locally if you don't have them yet.
 
-[Society of Research Software Engineering - UK](https://society-rse.org/)  <br />
-[DE-RSE - Society for Research Software in Germany](http://de-rse.org)  <br />
-[NL-RSE - The community of Research Software Engineers in the Netherlands](http://nl-rse.org)  <br />
-[NORDIC-RSE - Nordic Research Software Engineers Community](http://nordic-rse.org/) <br />
-[US-RSE - The US Research Software Engineer Association](http://us-rse.org/) <br />
+```sh
+$ bundle install # Installs the dependencies from the Gemfile
+$ bundle exec jekyll serve -w # Builds the site and refreshes when content changes
+```
 
-See [the Associations page](http://researchsoftware.org/assoc.html)
+## Maintainers
 
-# About this site
+[@sdruskat](https://github.com/sdruskat) is the interim maintainer of this project until it has a proper governance policy in place.
 
-In January, leaders of national RSE associations, groups and related initiatives from around the world came together in London for the first International RSE Leaders Workshop. This website and some initial blog posts (scroll down!) were created by breakout groups and other resources are in the pipeline. 
+## Contributing
 
-The International Network of RSE Associations (behind this site) was established as a loose grouping of the people leading national associations or in the process of setting them up and can be reached via the contact link.
+[Open an issue](https://github.com/RichardLitt/standard-readme/issues/new) or submit a pull request.
+Note that all content submitted to this website is licensed under a [Creative Commons Attribution 4.0 International license](LICENSE) per default.
 
-# Blogposts
+Until governance has been assumed formally, this project follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
+
+## License
+
+Unless otherwise noted, all content is licensed under a [Creative Commons Attribution 4.0 International license](LICENSE)
+
+© The researchsoftware.org contributors
