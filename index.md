@@ -1,4 +1,8 @@
-# Research Software Engineers
+---
+layout: page
+title: Research Software Engineers
+permalink: /
+---
 
 This is the website of the international research software engineering community.  
 
@@ -19,5 +23,3 @@ See [the Associations page](http://researchsoftware.org/assoc.html)
 In January, leaders of national RSE associations, groups and related initiatives from around the world came together in London for the first International RSE Leaders Workshop. This website and some initial blog posts (scroll down!) were created by breakout groups and other resources are in the pipeline. 
 
 The International Network of RSE Associations (behind this site) was established as a loose grouping of the people leading national associations or in the process of setting them up and can be reached via the contact link.
-
-# Blogposts
