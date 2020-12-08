@@ -20,7 +20,7 @@ $ bundle exec jekyll serve -w # Builds the site and refreshes when content chang
 [Open an issue](https://github.com/RSE-leaders/researchsoftware.org/issues/new) or submit a pull request.
 Note that all content submitted to this website is licensed under a [Creative Commons Attribution 4.0 International license](LICENSE) per default.
 
-Until governance has been assumed formally, this project follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
+Until governance has been assumed formally, this project follows the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) Code of Conduct.
 
 ## License
 
