@@ -1,4 +1,4 @@
-# Research Software Engineers (index.md)
+# Research Software Engineers
 
 This is the website of the international research software engineering community.  
 
