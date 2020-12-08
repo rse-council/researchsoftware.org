@@ -175,5 +175,3 @@ If you have any suggestions on how to change this list, please join the Slack ch
    -  Statistical methods
    -  Use of analysis software
 -  Other tasks as assigned
-
-{{ site.cc-by }}

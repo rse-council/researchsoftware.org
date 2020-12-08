@@ -271,5 +271,3 @@ Now that you've established a national RSE association, it is time to connect
 your association internationally! Please make your brand new association
 known to the
 [international network of RSE associations](http://researchsoftware.org/)!
-
-{{ site.cc-by }}

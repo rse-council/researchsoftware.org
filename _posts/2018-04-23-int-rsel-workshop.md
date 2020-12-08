@@ -63,5 +63,3 @@ The organisers were:
 Alys Brett (UKAEA), Robert Haines (University of Manchester), James Hetherington (The Alan Turing Institute), Simon Hettrick (Software Sustainability Institute), Mark Turner (Newcastle University), Chris Woods (University of Bristol), Claire Wyatt (University of Southampton)
 
 The outputs of the workshop were presented in a talk and <a href="http://rse.ac.uk/wp-content/uploads/2018/04/I-RSEL-poster.pdf">poster for the EPSRC / SSI workshop</a> on the impact of international research software collaboration.
-
-{{ site.cc-by }}

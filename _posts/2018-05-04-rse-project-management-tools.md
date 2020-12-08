@@ -56,5 +56,3 @@ It's clear that there isn't a standard toolkit for project management - and this
 - The role of [Research Software Project Manager](https://software.ac.uk/blog/2017-12-04-research-software-project-manager) will become more important as RSE teams grow - providing scope for specialisation and efficiency. It should be appreciated, and promoted more widely.
 
 _If you have experiences or recommendations to share regarding tools for managing people or projects then please [join us on Slack](http://rse.ac.uk/join-us/)!_
-
-{{ site.cc-by }}
