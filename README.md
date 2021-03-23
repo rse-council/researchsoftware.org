@@ -1,4 +1,7 @@
 # Website of the international RSE community
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A static website created using Jekyll
 
@@ -27,3 +30,23 @@ Until governance has been assumed formally, this project follows the [Contributo
 Unless otherwise noted, all content is licensed under a [Creative Commons Attribution 4.0 International license](LICENSE)
 
 © The researchsoftware.org contributors
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/danielskatz"><img src="https://avatars.githubusercontent.com/u/2913845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel S. Katz</b></sub></a><br /><a href="https://github.com/RSE-leaders/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Adanielskatz" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
