@@ -17,7 +17,7 @@ Please feel free to ask any questions in PR comments during this process.
 
 ## Licenses
 
-All content contributions to this repository are accepted under a [Creative Commons Attribution 4.0 International license](LICENSE). Note that by contributing you accept that your content contributions are published under this license.
+All content contributions to this repository are accepted under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Note that by contributing, you accept that your content contributions are published under this license.
 
 "Insignificant" files such as configuration, template, theme-related, and meta files (such as this one) are licensed under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). By making contributions to such files, you accept that your contribution is licensed under this license.
 
