@@ -15,6 +15,12 @@ You can expect to receive comments about your contribution from the reviewer or 
 These may simply accept your contribution and thank you for it, or they may ask you to make changes, or even suggest changes themselves.
 Please feel free to ask any questions in PR comments during this process.
 
+## Licenses
+
+All content contributions to this repository are accepted under a [Creative Commons Attribution 4.0 International license](LICENSE). Note that by contributing you accept that your content contributions are published under this license.
+
+"Insignificant" files such as configuration, template, theme-related, and meta files (such as this one) are licensed under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). By making contributions to such files, you accept that your contribution is licensed under this license.
+
 # How to report a bug or an issue
 
 Please create a new issue report in the issue tracker for this repository, and describe the issue you have found.
@@ -36,8 +42,12 @@ We are grateful for your contribution, and would like to recognize this by addin
 To do so, we use some automation provided by the [*All Contributors* project](https://allcontributors.org/).
 Please indicate at the beginning of your contribution (in the description of your pull request, or in your issue description) if you *don't* want to be added to this list.
 
-# Who is involved in researchsoftware.org?
+# Who is involved in *researchsoftware.org*?
 
 The **International Council of RSE Associations** is the owner of this repository.
 You can get in touch with us to get help, and ask questions about, or discuss, your contribution before you start working on it.
 For contact details, please see the [Council website](https://researchsoftware.org/council.html).
+
+---
+
+![CC0-1,0 license badge](https://img.shields.io/badge/license-CC0--1.0-blue)
