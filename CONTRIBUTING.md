@@ -6,7 +6,7 @@ Please read these guidelines carefully to learn about how to contribute.
 # How to submit contributions
 
 Please submit your contribution via a Pull Request (PR).
-You can learn how to create a Pull Reuest in the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+You can learn how to create a Pull Request in the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 Once your Pull Request is ready, please request a review.
 To do so, please simply add a comment to that effect to the Pull Request discussion.
 
