@@ -28,7 +28,7 @@ We will try to answer your report in due time.
 
 # How to request an improvement
 
-Please create a new issue report in the issue tracker for this repository, and describe the improvement you would like to see.
+Please create a [new issue report](https://github.com/RSE-leaders/researchsoftware.org/issues/new/choose) in the [issue tracker for this repository](https://github.com/RSE-leaders/researchsoftware.org/issues), and describe the improvement you would like to see.
 We will try to answer your request in due time.
 We may ask you for further details, and discuss the enhancement further.
 
