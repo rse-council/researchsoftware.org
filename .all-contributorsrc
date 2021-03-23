@@ -6,19 +6,23 @@
   "commit": false,
   "contributors": [
     {
-      "login": "danielskatz",
-      "name": "Daniel S. Katz",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2913845?v=4",
-      "profile": "https://github.com/danielskatz",
-      "contributions": [
-        "review"
-      ],
       "login": "bast",
       "name": "Radovan Bast",
       "avatar_url": "https://avatars.githubusercontent.com/u/5120679?v=4",
       "profile": "https://bast.fr",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "sdruskat",
+      "name": "Stephan Druskat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3007126?v=4",
+      "profile": "http://sdruskat.net",
+      "contributions": [
+        "content",
+        "doc",
+        "maintenance"
       ]
     }
   ],
