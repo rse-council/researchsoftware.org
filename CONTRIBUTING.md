@@ -23,7 +23,7 @@ All content contributions to this repository are accepted under a [Creative Comm
 
 # How to report a bug or an issue
 
-Please create a new issue report in the issue tracker for this repository, and describe the issue you have found.
+Please create a [new issue report](https://github.com/RSE-leaders/researchsoftware.org/issues/new/choose) in the [issue tracker for this repository](https://github.com/RSE-leaders/researchsoftware.org/issues), and describe the issue you have found.
 We will try to answer your report in due time.
 
 # How to request an improvement
