@@ -17,3 +17,5 @@ To maintain openness towards the community and facilitate further knowledge exch
 
 To get in touch with the Council, write an email to the public mailing list at  
 📧 [intl-rse-council@listserv.dfn.de](mailto:intl-rse-council@listserv.dfn.de).
+
+For more information, also read [this blog post from the 2nd International RSE Leaders Workshop 2020](https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html).
