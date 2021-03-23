@@ -1,6 +1,6 @@
 # Website of the international RSE community
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A static website created using Jekyll
@@ -40,8 +40,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danielskatz"><img src="https://avatars.githubusercontent.com/u/2913845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel S. Katz</b></sub></a><br /><a href="https://github.com/RSE-leaders/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Adanielskatz" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://bast.fr"><img src="https://avatars.githubusercontent.com/u/5120679?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Radovan Bast</b></sub></a><br /><a href="https://github.com/RSE-leaders/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Abast" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://sdruskat.net"><img src="https://avatars.githubusercontent.com/u/3007126?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stephan Druskat</b></sub></a><br /><a href="#content-sdruskat" title="Content">🖋</a> <a href="https://github.com/RSE-leaders/researchsoftware.org/commits?author=sdruskat" title="Documentation">📖</a> <a href="#maintenance-sdruskat" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
