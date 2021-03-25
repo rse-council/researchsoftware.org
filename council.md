@@ -30,3 +30,27 @@ To get in touch with the Council, write an email to the public mailing list at
 
 For more information, also read 
 [this blog post from the 2nd International RSE Leaders Workshop 2020](https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html).
+
+## Current members
+
+| Association | Name |
+| ----------- | --------------|
+| Soc RSE | Claire Wyatt |
+| Soc RSE | Paul Richmond |
+| de-RSE  | Stephan Druskat |
+| de-RSE  | Frank Löffler |
+| BE-RSE  | Alexander Botzki |
+| BE-RSE  | Johan Philips |
+| NL-RSE  | Anna-lena Lamprecht |
+| NL-RSE  | Ben van Werkhoven |
+| RSE-AUNZ    | Justin Baker |
+| RSE-AUNZ    | Nicholas May |
+| Nordic-RSE  | Anne Claire Fouilloux |
+| Nordic-RSE  | Radovan Bast |
+| US-RSE  | Dan Katz |
+| US-RSE  | Ian Cosden |
+
+
+
+
+
