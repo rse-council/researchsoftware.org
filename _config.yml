@@ -15,8 +15,9 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - blog.md
-  - 2020-workshop.md
+# - 2020-workshop.md
   - assoc.md
+  - council.md
   - contact.md
 # - code-of-conduct.md
 # - communication.md
