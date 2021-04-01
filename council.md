@@ -25,7 +25,7 @@ exchange and support, representatives of nascent communities can join Council
 meetings as observing participants, ask questions and discuss issues at the 
 end of meetings.
 
-To get in touch with the Council, write an email to the public mailing list at  
+To get in touch with the Council, write an email to  
 📧 [intl-rse-council@listserv.dfn.de](mailto:intl-rse-council@listserv.dfn.de).
 
 For more information, also read 
@@ -49,7 +49,6 @@ For more information, also read
 | Nordic-RSE  | Radovan Bast |
 | US-RSE  | Daniel S. Katz |
 | US-RSE  | Ian Cosden |
-
 
 
 
