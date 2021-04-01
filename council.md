@@ -47,9 +47,8 @@ For more information, also read
 | RSE-AUNZ    | Nicholas May |
 | Nordic-RSE  | Anne Claire Fouilloux |
 | Nordic-RSE  | Radovan Bast |
-| US-RSE  | Dan Katz |
+| US-RSE  | Daniel S. Katz |
 | US-RSE  | Ian Cosden |
-
 
 
 
