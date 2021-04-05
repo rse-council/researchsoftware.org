@@ -20,10 +20,11 @@ RSE associations to change their financial models over time. This post
 may be useful to the existing organizations that want to consider
 changes, and to new organization that need to make financial decisions.
 
-* be-RSE: not a formal organisation yet, nor financial.
-All effort is volunteer, and driven by two organisations
-(Flemish research institute and Belgian university) at the moment.
-
+* be-RSE: The Belgian Research Software Association is not a formal organisation yet, 
+nor is it financially independant.
+All efforts is driven by volunteers of various organisations. At the moment, two organisations, 
+VIB and KU Leuven are driving the activities.
+ 
 * de-RSE: membership fees (~60 €/y): not that much, plan to support
 local groups and national conference
 
