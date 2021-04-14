@@ -21,7 +21,7 @@ may be useful to the existing organizations that want to consider
 changes, and to new organizations that need to make financial decisions.
 
 * be-RSE: The Belgian Research Software Association is not a formal organisation yet, 
-nor is it financially independant.
+nor is it financially independent.
 All efforts are driven by volunteers of various organisations. At the moment, two organisations, 
 VIB and KU Leuven are driving the activities.
  
