@@ -11,6 +11,7 @@ Photo by [Micheile Henderson](https://unsplash.com/@micheile) on [Unsplash](http
 - Anne Claire Fouilloux
 - Ben van Werkhoven
 - Frank Löffler
+- Stephan Druskat
 
 This blog post is intended to talk about how different RSE associations
 financially function (purely volunteer; income from membership, events,
