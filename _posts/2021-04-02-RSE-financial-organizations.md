@@ -26,8 +26,7 @@ nor is it financially independent.
 All efforts are driven by volunteers of various organisations. At the moment, two organisations, 
 VIB and KU Leuven are driving the activities.
  
-* de-RSE: membership fees (~60 €/y): not that much, plan to support
-local groups and national conference
+* de-RSE: Formal association with charitable status (includes tax exemptions), financed through membership fees (€60/year for full membership; €30/year for discounted membership), used exclusively to support chartered aims, e.g., local groups, national conference, etc. Financial support for deRSE19 came from corporate and charitable sponsors and the Gesellschaft für Informatik. Society uses academic and commercial infrastructure for work (GWDG's chat and cloud, GitHub).
 
 * Nordic-RSE: not financial as yet but funded by a “Nordic project”.
 No membership fees yet.
