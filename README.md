@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A static website created using Jekyll
+https://researchsoftware.org - A static website created using Jekyll
 
 ## Install
 
