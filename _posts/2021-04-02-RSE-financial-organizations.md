@@ -18,7 +18,7 @@ sponsors, etc.; costs for events, staff, other). While it is now being
 posted as a blog, it's really a snapshot in time, as we expect the
 RSE associations to change their financial models over time. This post
 may be useful to the existing organizations that want to consider
-changes, and to new organization that need to make financial decisions.
+changes, and to new organizations that need to make financial decisions.
 
 * be-RSE: The Belgian Research Software Association is not a formal organisation yet, 
 nor is it financially independant.
@@ -54,4 +54,3 @@ and to its membership (e.g. [in 2020](https://bit.ly/socrse-accounts-2020)).
 only via our mailing list. As of early April 2021, we are in the process
 of setting up a financial account for the organization via
 [Open Collective Foundation](https://opencollective.com/foundation).
-
