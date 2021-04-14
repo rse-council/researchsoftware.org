@@ -22,7 +22,7 @@ changes, and to new organization that need to make financial decisions.
 
 * be-RSE: The Belgian Research Software Association is not a formal organisation yet, 
 nor is it financially independant.
-All efforts is driven by volunteers of various organisations. At the moment, two organisations, 
+All efforts are driven by volunteers of various organisations. At the moment, two organisations, 
 VIB and KU Leuven are driving the activities.
  
 * de-RSE: membership fees (~60 €/y): not that much, plan to support
@@ -54,5 +54,4 @@ and to its membership (e.g. [in 2020](https://bit.ly/socrse-accounts-2020)).
 only via our mailing list. As of early April 2021, we are in the process
 of setting up a financial account for the organization via
 [Open Collective Foundation](https://opencollective.com/foundation).
-
 
