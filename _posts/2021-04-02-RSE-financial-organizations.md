@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How RSE Associations work financially"
-image: /img/financial-org.png
+image: /img/financial-org.jpeg
 ---
 Photo by [Micheile Henderson](https://unsplash.com/@micheile) on [Unsplash](https://unsplash.com/).
   
