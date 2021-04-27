@@ -15,7 +15,11 @@ Photo by [Micheile Henderson](https://unsplash.com/@micheile) on [Unsplash](http
 
 This blog post is intended to talk about how different RSE associations
 financially function (purely volunteer; income from membership, events,
-sponsors, etc.; costs for events, staff, other). While it is now being
+sponsors, etc.; costs for events, staff, other). 
+
+<!--break-->
+
+While it is now being
 posted as a blog, it's really a snapshot in time, as we expect the
 RSE associations to change their financial models over time. This post
 may be useful to the existing organizations that want to consider
