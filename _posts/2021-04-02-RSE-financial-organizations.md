@@ -48,7 +48,7 @@ at the time.
 interested in finding out about paths that get us to a place where we can
 begin financing our own website, media, events, etc.
 
-* Society of RSE: Is egistered with the UK Charity Commission as a
+* Society of RSE: Is registered with the UK Charity Commission as a
 Charitable Incorporated Organisation with Charity Number
 [1182455](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5125299).
 As such, it has a bank account and annual reports finances to the government
