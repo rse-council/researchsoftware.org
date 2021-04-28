@@ -40,8 +40,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danielskatz"><img src="https://avatars.githubusercontent.com/u/2913845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel S. Katz</b></sub></a><br /><a href="https://github.com/RSE-leaders/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Adanielskatz" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://bast.fr"><img src="https://avatars.githubusercontent.com/u/5120679?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Radovan Bast</b></sub></a><br /><a href="https://github.com/RSE-leaders/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Abast" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/knarrff"><img src="https://avatars.githubusercontent.com/u/405290?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Frank Löffler</b></sub></a><br /><a href="#blog-knarrff" title="Blogposts">📝</a> <a href="https://github.com/RSE-leaders/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Aknarrff" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
