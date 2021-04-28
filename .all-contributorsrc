@@ -15,12 +15,53 @@
       ]
     },
     {
+      "login": "danielskatz",
+      "name": "Daniel S. Katz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2913845?v=4",
+      "profile": "https://github.com/danielskatz",
+      "contributions": [
+        "blog",
+        "review"
+      ]
+    },
+    {
+      "login": "annefou",
+      "name": "Anne Fouilloux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8168508?v=4",
+      "profile": "http://www.mn.uio.no/geo/english/people/adm/annefou/",
+      "contributions": [
+        "blog",
+        "review"
+      ]
+    },
+    {
+      "login": "knarrff",
+      "name": "Frank Löffler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/405290?v=4",
+      "profile": "https://github.com/knarrff",
+      "contributions": [
+        "blog",
+        "review"
+      ]
+    },
+    {
       "login": "nrmay",
       "name": "Nick May",
       "avatar_url": "https://avatars.githubusercontent.com/u/4125927?v=4",
       "profile": "https://github.com/nrmay",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "benvanwerkhoven",
+      "name": "Ben van Werkhoven",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2337546?v=4",
+      "profile": "https://github.com/benvanwerkhoven",
+      "contributions": [
+        "blog",
+        "review",
+        "maintenance"
       ]
     }
   ],
