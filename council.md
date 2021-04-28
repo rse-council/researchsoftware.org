@@ -34,14 +34,14 @@ For more information, also read
 ## Current members
 
 | Association | Name |
-| ----------- | --------------|
+| -----------: | :--------------|
 | Soc RSE | Claire Wyatt |
 | Soc RSE | Paul Richmond |
 | de-RSE  | Stephan Druskat |
 | de-RSE  | Frank Löffler |
 | BE-RSE  | Alexander Botzki |
 | BE-RSE  | Johan Philips |
-| NL-RSE  | Anna-lena Lamprecht |
+| NL-RSE  | Anna-Lena Lamprecht |
 | NL-RSE  | Ben van Werkhoven |
 | RSE-AUNZ    | Justin Baker |
 | RSE-AUNZ    | Nicholas May |
