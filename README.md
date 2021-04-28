@@ -41,6 +41,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://bast.fr"><img src="https://avatars.githubusercontent.com/u/5120679?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Radovan Bast</b></sub></a><br /><a href="https://github.com/RSE-leaders/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Abast" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/danielskatz"><img src="https://avatars.githubusercontent.com/u/2913845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel S. Katz</b></sub></a><br /><a href="#blog-danielskatz" title="Blogposts">📝</a> <a href="https://github.com/RSE-leaders/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Adanielskatz" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://www.mn.uio.no/geo/english/people/adm/annefou/"><img src="https://avatars.githubusercontent.com/u/8168508?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anne Fouilloux</b></sub></a><br /><a href="#blog-annefou" title="Blogposts">📝</a> <a href="https://github.com/RSE-leaders/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Aannefou" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
