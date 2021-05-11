@@ -48,7 +48,6 @@ For more information, also read
 | Nordic-RSE  | Anne Claire Fouilloux |
 | Nordic-RSE  | Radovan Bast |
 | US-RSE  | Daniel S. Katz | d.katz@ieee.org |
-| US-RSE  | Ian Cosden |
-
+| US-RSE  | Ian Cosden | icosden@princeton.edu |
 
 
