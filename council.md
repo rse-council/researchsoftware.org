@@ -33,11 +33,11 @@ For more information, also read
 
 ## Current members
 
-| Association | Name |
-| -----------: | :--------------|
+| Association | Name | Email |
+| -----------: | :--------------| :--------------|
 | Soc RSE | Claire Wyatt |
 | Soc RSE | Paul Richmond |
-| de-RSE  | Stephan Druskat |
+| de-RSE  | Stephan Druskat | stephan.druskat@dlr.de |
 | de-RSE  | Frank Löffler |
 | BE-RSE  | Alexander Botzki |
 | BE-RSE  | Johan Philips |
@@ -47,8 +47,6 @@ For more information, also read
 | RSE-AUNZ    | Nicholas May |
 | Nordic-RSE  | Anne Claire Fouilloux |
 | Nordic-RSE  | Radovan Bast |
-| US-RSE  | Daniel S. Katz |
-| US-RSE  | Ian Cosden |
-
-
+| US-RSE  | Daniel S. Katz | d.katz@ieee.org |
+| US-RSE  | Ian Cosden | icosden@princeton.edu |
 
