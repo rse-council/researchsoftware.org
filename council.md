@@ -37,7 +37,7 @@ For more information, also read
 | -----------: | :--------------| :--------------|
 | Soc RSE | Claire Wyatt |
 | Soc RSE | Paul Richmond |
-| de-RSE  | Stephan Druskat |
+| de-RSE  | Stephan Druskat | stephan.druskat@dlr.de |
 | de-RSE  | Frank Löffler |
 | BE-RSE  | Alexander Botzki |
 | BE-RSE  | Johan Philips |
@@ -49,5 +49,4 @@ For more information, also read
 | Nordic-RSE  | Radovan Bast |
 | US-RSE  | Daniel S. Katz | d.katz@ieee.org |
 | US-RSE  | Ian Cosden | icosden@princeton.edu |
-
 
