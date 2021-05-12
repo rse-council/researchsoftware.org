@@ -78,6 +78,16 @@
         "content",
         "design"
       ]
+    },
+    {
+      "login": "cosden",
+      "name": "Ian Cosden",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5824618?v=4",
+      "profile": "https://github.com/cosden",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
