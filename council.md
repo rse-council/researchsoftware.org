@@ -35,8 +35,8 @@ For more information, also read
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
-| Soc RSE | Claire Wyatt |
-| Soc RSE | Paul Richmond |
+| Soc RSE | Claire Wyatt | c.wyatt@society-rse.org |
+| Soc RSE | Paul Richmond | p.richmond@society-rse.org |
 | de-RSE  | Stephan Druskat | stephan.druskat@dlr.de |
 | de-RSE  | Frank Löffler |
 | BE-RSE  | Alexander Botzki |
