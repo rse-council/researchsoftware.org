@@ -38,7 +38,7 @@ For more information, also read
 | Soc RSE | Claire Wyatt | c.wyatt@society-rse.org |
 | Soc RSE | Paul Richmond | p.richmond@society-rse.org |
 | de-RSE  | Stephan Druskat | stephan.druskat@dlr.de |
-| de-RSE  | Frank Löffler |
+| de-RSE  | Frank Löffler | frank.loeffler@uni-jena.de |
 | BE-RSE  | Alexander Botzki |
 | BE-RSE  | Johan Philips |
 | NL-RSE  | Anna-Lena Lamprecht |
