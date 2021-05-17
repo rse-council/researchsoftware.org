@@ -39,8 +39,8 @@ For more information, also read
 | Soc RSE | Paul Richmond | p.richmond@society-rse.org |
 | de-RSE  | Stephan Druskat | stephan.druskat@dlr.de |
 | de-RSE  | Frank Löffler | frank.loeffler@uni-jena.de |
-| BE-RSE  | Alexander Botzki |
-| BE-RSE  | Johan Philips |
+| BE-RSE  | Alexander Botzki | alexander.botzki@vib.be |
+| BE-RSE  | Johan Philips | johan.philips@kuleuven.be |
 | NL-RSE  | Anna-Lena Lamprecht |
 | NL-RSE  | Ben van Werkhoven |
 | RSE-AUNZ    | Justin Baker |
