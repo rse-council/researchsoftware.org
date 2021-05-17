@@ -41,7 +41,7 @@ For more information, also read
 | de-RSE  | Frank Löffler | frank.loeffler@uni-jena.de |
 | BE-RSE  | Alexander Botzki | alexander.botzki@vib.be |
 | BE-RSE  | Johan Philips | johan.philips@kuleuven.be |
-| NL-RSE  | Anna-Lena Lamprecht |
+| NL-RSE  | Anna-Lena Lamprecht | a.l.lamprecht@uu.nl |
 | NL-RSE  | Ben van Werkhoven |
 | RSE-AUNZ    | Justin Baker |
 | RSE-AUNZ    | Nicholas May |
