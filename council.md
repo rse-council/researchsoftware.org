@@ -42,7 +42,7 @@ For more information, also read
 | BE-RSE  | Alexander Botzki | alexander.botzki@vib.be |
 | BE-RSE  | Johan Philips | johan.philips@kuleuven.be |
 | NL-RSE  | Anna-Lena Lamprecht |
-| NL-RSE  | Ben van Werkhoven |
+| NL-RSE  | Ben van Werkhoven | b.vanwerkhoven@esciencecenter.nl |
 | RSE-AUNZ    | Justin Baker |
 | RSE-AUNZ    | Nicholas May |
 | Nordic-RSE  | Anne Claire Fouilloux |
