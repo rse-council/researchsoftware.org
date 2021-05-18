@@ -46,7 +46,7 @@ For more information, also read
 | RSE-AUNZ    | Justin Baker |
 | RSE-AUNZ    | Nicholas May |
 | Nordic-RSE  | Anne Claire Fouilloux | annefou@geo.uio.no |
-| Nordic-RSE  | Radovan Bast |
+| Nordic-RSE  | Radovan Bast | radovan.bast@uit.no |
 | US-RSE  | Daniel S. Katz | d.katz@ieee.org |
 | US-RSE  | Ian Cosden | icosden@princeton.edu |
 
