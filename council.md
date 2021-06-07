@@ -31,6 +31,8 @@ To get in touch with the Council, write an email to
 For more information, also read 
 [this blog post from the 2nd International RSE Leaders Workshop 2020](https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html).
 
+The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are expected to honour it in any participation in or interaction with the Council.
+
 ## Current members
 
 | Association | Name | Email |
@@ -49,4 +51,3 @@ For more information, also read
 | Nordic-RSE  | Radovan Bast | radovan.bast@uit.no |
 | US-RSE  | Daniel S. Katz | d.katz@ieee.org |
 | US-RSE  | Ian Cosden | icosden@princeton.edu |
-
