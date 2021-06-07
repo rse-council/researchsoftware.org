@@ -35,7 +35,7 @@ We may ask you for further details, and discuss the enhancement further.
 
 # Code of Conduct
 
-You are required to adhere to our Code of Conduct during all parts of your interaction with this project.
+You are required to adhere to our [Code of Conduct](https://researchsoftware.org/council/code-of-conduct.html) during all parts of your interaction with this project.
 
 # Thank you, we'd like to recognize your contribution!
 
