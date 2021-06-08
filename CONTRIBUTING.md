@@ -1,12 +1,12 @@
 # Welcome!
 
-We are happy that you are considering to contribute to the researchsoftware.org website!
+We are happy that you are considering contributing to the [researchsoftware.org](https://researchsoftware.org) website!
 Please read these guidelines carefully to learn about how to contribute.
 
 # How to submit contributions
 
 Please submit your contribution via a Pull Request (PR).
-You can learn how to create a Pull Request in the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+You can learn how to create a Pull Request in [GitHub's documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 Once your Pull Request is ready, please request a review.
 To do so, please simply add a comment to that effect to the Pull Request discussion.
 
@@ -24,8 +24,8 @@ Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed
 
 # How to report a bug or an issue
 
-Please create a [new issue report](https://github.com/RSE-leaders/researchsoftware.org/issues/new/choose) in the [issue tracker for this repository](https://github.com/RSE-leaders/researchsoftware.org/issues), and describe the issue you have found.
-We will try to answer your report in due time.
+Please create a [new issue report](https://github.com/RSE-leaders/researchsoftware.org/issues/new/choose) in the [issue tracker for this repository](https://github.com/RSE-leaders/researchsoftware.org/issues), and describe the bug you have found or the issue that concerns you.
+We will try to respond to your report in due time.
 
 # How to request an improvement
 
@@ -39,7 +39,7 @@ You are required to adhere to our [Code of Conduct](https://researchsoftware.org
 
 # Thank you, we'd like to recognize your contribution!
 
-We are grateful for your contribution, and would like to recognize this by adding you to a list of contributors in the [README file](README.md) for this project.
+We are grateful for all contributions, and would like to recognize this by adding those who make them to a list of contributors in the [README file](README.md) for this project.
 To do so, we use some automation provided by the [*All Contributors* project](https://allcontributors.org/).
 This means that you can request to be added as a contributor yourself by adding a comment in your PR or issue, similar to this: `@all-contributors please add @<username> for `[`<contributions>`](https://allcontributors.org/docs/en/emoji-key).
 Please read the [All Contributors documentation](https://allcontributors.org/docs/en/bot/usage) for more details.
