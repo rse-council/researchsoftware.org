@@ -15,13 +15,16 @@ title: Associations
 
 [🇺🇸 US-RSE - The US Research Software Engineer Association](http://us-rse.org/)
 
+[BE-RSE - Belgium Research Software Engineers community](https://be-rse.org/)
+
+[RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/)
+
 
 
 # National RSE Associations under construction...
 
-Belgium - There is a group of people working on setting up an [RSE community in Belgium](https://be-rse.org) with a first event in December 2020.
+Contact us to get your association listed here!
 
-🇦🇺🇳🇿 Australia and New Zealand - see this [article](https://www.ands.org.au/partners-and-communities/ands-communities/research-software-engineers-community-group) and find the [initial steering committee on Github](https://github.com/rse-aunz/rse-au/)
 
 # Starting a National RSE association
 
