@@ -8,7 +8,7 @@ Photo by [Erwan Hesry](https://unsplash.com/@erwanhesry) on [Unsplash](https://u
   
 **Authors**
 
-- Ben van Werkhoven, on behalf of the council
+- Ben van Werkhoven, on behalf of the Council
 
 The International Council of RSE Associations has decided to declare the second Thursday 
 in October to be "International RSE Day". The first annual International RSE Day will be 
