@@ -7,7 +7,7 @@ Photo by [Miguel Henriques](https://unsplash.com/@miguel_photo) on [Unsplash](ht
 
 **Authors**
 
-- Ben van Werkhoven, on behalf of the council
+- Ben van Werkhoven, on behalf of the Council
 
 The International Council of RSE Associations is happy to endorse RSE 
 conferences and similar events. The Council will list and promote endorsed 
