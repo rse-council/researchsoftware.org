@@ -26,4 +26,4 @@ In January 2018, leaders of national RSE associations, groups and related initia
 
 The International Network of RSE Associations was established as a loose grouping of the people leading national associations, but in January 2021 the
 International Council of RSE Associations was created as a forum to communicate and formally meet to ensure cohesion between associations and to provide a platform
-for open discussion around international issues and affairs. For more information, please see the [council](https://researchsoftware.org/council.html) page.
+for open discussion around international issues and affairs. For more information, please see the [Council](https://researchsoftware.org/council.html) page.
