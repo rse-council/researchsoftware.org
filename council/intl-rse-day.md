@@ -4,7 +4,7 @@ title: International RSE Day
 hidetitle: false
 ---
 
-The [International Council of RSE Associations](council.md) has decided to declare 
+The [International Council of RSE Associations](../council.md) has decided to declare 
 the second Thursday in October to be the annual "International RSE Day". 
 
 ### The first International RSE Day will be<br>*Thursday, 14th October 2021*.
