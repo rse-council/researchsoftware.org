@@ -10,7 +10,7 @@ Research Software Engineers are people who combine professional software experti
 
 <div style="position: relative; height: auto; border: 2px solid #841b5f; margin: 10px auto; padding: 10px; box-sizing: border-box; background-color: #f0e1e8; border-radius: 5px;">
 <h3 style="padding: 0; margin: 0;">14th October 2021 is <i>International RSE Day</i>!<br>
-<a href="council/intl-rse-day/">Read more ...</a></h3>
+<a href="council/intl-rse-day.html">Read more ...</a></h3>
 </div>
 
 # National RSE Associations
