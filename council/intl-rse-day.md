@@ -23,3 +23,4 @@ hold regular or special events on this day, such as:
 ## International RSE Day 2021 - Events
 
 - ### **[NL-RSE]** [NL-RSE Road Show](https://nl-rse.org/events/NL-RSE-RSE21.html)
+- ### **[Nordic-RSE]** [Nordic-RSE celebrates International RSE day](https://nordic-rse.org/events/international-rse-day/)
