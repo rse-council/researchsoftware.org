@@ -25,6 +25,6 @@ hold regular or special events on this day, such as:
 - ### **[NL-RSE]** [NL-RSE Road Show](https://nl-rse.org/events/NL-RSE-RSE21.html)
 - ### **[Nordic-RSE]** [Nordic-RSE celebrates International RSE day](https://nordic-rse.org/events/international-rse-day/)
 
-### Related events
+### Related events on Intl RSE Day
 
 - #### **[Australia]** ["Data is Only Half the Battle"](https://conference.eresearch.edu.au/events/data-is-only-half-the-battle/) - RSE & Research software management BOF
