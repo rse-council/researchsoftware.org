@@ -26,6 +26,7 @@ hold regular or special events on this day, such as:
 - ### **[Nordic-RSE]** [Nordic-RSE celebrates International RSE day](https://nordic-rse.org/events/international-rse-day/)
 - ### **[US-RSE]** [US-RSE International RSE Day Virtual Events](https://us-rse.org/events/2021/2021-10-intnl-rse-day)
 - ### **[de-RSE]** [de-RSE International RSE day](https://pad.gwdg.de/s/SmDzPpyOx)
+- ### **[RSE_Asia]** [RSE Asia Launch Event on International RSE day](https://rse-asia.github.io/RSE_Asia/)
 
 ### Related events on Intl RSE Day
 
