@@ -18,6 +18,8 @@ $ bundle exec jekyll serve -w # Builds the site and refreshes when content chang
 
 [@sdruskat](https://github.com/sdruskat) is the interim maintainer of this project until it has a proper governance policy in place.
 
+## Activities at the Launch Event
+
 ## Contributing
 
 For our contributing guidelines, please see [CONTRIBUTING.md](https://github.com/RSE-leaders/researchsoftware.org/blob/main/CONTRIBUTING.md).
