@@ -5,7 +5,7 @@ title: Associations
 
 # Links to National RSE associations
 
-[🇬🇧 Society of Research Software Engineering - UK](https://society-rse.org/)
+[🇧🇪 BE-RSE - Belgium Research Software Engineers community](https://be-rse.org/)
 
 [🇩🇪 DE-RSE - Society for Research Software in Germany](http://de-rse.org)
 
@@ -13,12 +13,11 @@ title: Associations
 
 [🇳🇴🇸🇪🇫🇮🇩🇰🇮🇸 NORDIC-RSE - Nordic Research Software Engineers Community](http://nordic-rse.org/)
 
+[🇦🇺🇳🇿 RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/)
+
+[🇬🇧 Soc-RSE - Society of Research Software Engineering - UK](https://society-rse.org/)
+
 [🇺🇸 US-RSE - The US Research Software Engineer Association](http://us-rse.org/)
-
-[BE-RSE - Belgium Research Software Engineers community](https://be-rse.org/)
-
-[RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/)
-
 
 
 # National RSE Associations under construction...
