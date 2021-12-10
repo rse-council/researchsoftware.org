@@ -16,7 +16,7 @@ to talk and coordinate regularly, and thus sustain international collaboration.
 
 The Council consists of delegates from the established RSE associations, who
 meet regularly to coordinate, discuss and collaborate. It is governed by a 
-charter (currently being drafted). Further national or multinational RSE 
+[charter](council/charter.html). Further national or multinational RSE 
 associations can join the Council once they pass a threshold for establishment 
 that is defined in the charter.
 
