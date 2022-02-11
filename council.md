@@ -48,6 +48,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | NL-RSE  | Anna-Lena Lamprecht | a.l.lamprecht@uu.nl |
 | NL-RSE  | Ben van Werkhoven | b.vanwerkhoven@esciencecenter.nl |
 | RSE-AUNZ    | Justin Baker |
+| RSE-AUNZ    | Rowland Mosbergen | rowlandm@practicaldiversity.org |
 | Nordic-RSE  | Anne Claire Fouilloux | annefou@geo.uio.no |
 | Nordic-RSE  | Radovan Bast | radovan.bast@uit.no |
 | US-RSE  | Daniel S. Katz | d.katz@ieee.org |
