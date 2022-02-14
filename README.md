@@ -1,6 +1,6 @@
 # Website of the international RSE community
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 https://researchsoftware.org - A static website for the international RSE community, created using Jekyll
@@ -43,14 +43,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/danielskatz"><img src="https://avatars.githubusercontent.com/u/2913845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel S. Katz</b></sub></a><br /><a href="#blog-danielskatz" title="Blogposts">📝</a> <a href="https://github.com/rse-council/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Adanielskatz" title="Reviewed Pull Requests">👀</a> <a href="#content-danielskatz" title="Content">🖋</a> <a href="#ideas-danielskatz" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://www.mn.uio.no/geo/english/people/adm/annefou/"><img src="https://avatars.githubusercontent.com/u/8168508?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anne Fouilloux</b></sub></a><br /><a href="#blog-annefou" title="Blogposts">📝</a> <a href="https://github.com/rse-council/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Aannefou" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/knarrff"><img src="https://avatars.githubusercontent.com/u/405290?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Frank Löffler</b></sub></a><br /><a href="#blog-knarrff" title="Blogposts">📝</a> <a href="https://github.com/rse-council/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Aknarrff" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/nrmay"><img src="https://avatars.githubusercontent.com/u/4125927?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nick May</b></sub></a><br /><a href="https://github.com/rse-council/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Anrmay" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/nrmay"><img src="https://avatars.githubusercontent.com/u/4125927?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nick May</b></sub></a><br /><a href="https://github.com/rse-council/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Anrmay" title="Reviewed Pull Requests">👀</a> <a href="#content-nrmay" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/benvanwerkhoven"><img src="https://avatars.githubusercontent.com/u/2337546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ben van Werkhoven</b></sub></a><br /><a href="#blog-benvanwerkhoven" title="Blogposts">📝</a> <a href="https://github.com/rse-council/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Abenvanwerkhoven" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-benvanwerkhoven" title="Maintenance">🚧</a></td>
     <td align="center"><a href="http://sdruskat.net"><img src="https://avatars.githubusercontent.com/u/3007126?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stephan Druskat</b></sub></a><br /><a href="#maintenance-sdruskat" title="Maintenance">🚧</a> <a href="https://github.com/rse-council/researchsoftware.org/pulls?q=is%3Apr+reviewed-by%3Asdruskat" title="Reviewed Pull Requests">👀</a> <a href="#blog-sdruskat" title="Blogposts">📝</a> <a href="#content-sdruskat" title="Content">🖋</a> <a href="#design-sdruskat" title="Design">🎨</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/cosden"><img src="https://avatars.githubusercontent.com/u/5824618?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ian Cosden</b></sub></a><br /><a href="#content-cosden" title="Content">🖋</a> <a href="#ideas-cosden" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/rowlandm"><img src="https://avatars.githubusercontent.com/u/420050?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rowlandm</b></sub></a><br /><a href="#content-rowlandm" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.nicole-brewer.com"><img src="https://avatars.githubusercontent.com/u/20686935?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicole Brewer</b></sub></a><br /><a href="#content-nicole-brewer" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/rowlandm"><img src="https://avatars.githubusercontent.com/u/420050?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rowlandm</b></sub></a><br /><a href="#content-rowlandm" title="Content">🖋</a></td>
   </tr>
 </table>
 
