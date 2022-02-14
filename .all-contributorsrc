@@ -97,7 +97,15 @@
       "contributions": [
         "content"
       ]
-    }
+    },
+    {
+      "login": "rowlandm",
+      "name": "rowlandm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/420050?v=4",
+      "profile": "https://github.com/rowlandm",
+      "contributions": [
+        "content"
+      ]
   ],
   "contributorsPerLine": 7,
   "projectName": "researchsoftware.org",
