@@ -33,6 +33,10 @@ Please create a [new issue report](https://github.com/RSE-leaders/researchsoftwa
 We will try to answer your request in due time.
 We may ask you for further details, and discuss the enhancement further.
 
+# How to update the pages of the International Council of RSE Associations?
+
+Please see [the README file in the council directory](council/README.md).
+
 # Code of Conduct
 
 You are required to adhere to our [Code of Conduct](https://researchsoftware.org/council/code-of-conduct.html) during all parts of your interaction with this project.
