@@ -31,7 +31,7 @@ To get in touch with the Council, write an email to
 For more information, also read 
 [this blog post from the 2nd International RSE Leaders Workshop 2020](https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html).
 
-Read the [Charter of the International Council of RSE Associations](council/charter.html) or download it as a [PDF](International-Council-of-RSE-Associations_Charter.pdf).
+Read the [Charter of the International Council of RSE Associations](council/charter.html) or download it as a [PDF file](International-Council-of-RSE-Associations_Charter.pdf).
 
 The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are expected to honour it in any participation in or interaction with the Council.
 
