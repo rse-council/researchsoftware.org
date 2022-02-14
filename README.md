@@ -1,6 +1,6 @@
 # Website of the international RSE community
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 https://researchsoftware.org - A static website for the international RSE community, created using Jekyll
@@ -51,6 +51,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/cosden"><img src="https://avatars.githubusercontent.com/u/5824618?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ian Cosden</b></sub></a><br /><a href="#content-cosden" title="Content">🖋</a> <a href="#ideas-cosden" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://www.nicole-brewer.com"><img src="https://avatars.githubusercontent.com/u/20686935?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicole Brewer</b></sub></a><br /><a href="#content-nicole-brewer" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rowlandm"><img src="https://avatars.githubusercontent.com/u/420050?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rowlandm</b></sub></a><br /><a href="#content-rowlandm" title="Content">🖋</a></td>
+    <td align="center"><a href="https://milliams.com"><img src="https://avatars.githubusercontent.com/u/61316?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matt Williams</b></sub></a><br /><a href="#content-milliams" title="Content">🖋</a></td>
   </tr>
 </table>
 
