@@ -50,6 +50,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/cosden"><img src="https://avatars.githubusercontent.com/u/5824618?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ian Cosden</b></sub></a><br /><a href="#content-cosden" title="Content">🖋</a> <a href="#ideas-cosden" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/rowlandm"><img src="https://avatars.githubusercontent.com/u/420050?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rowlandm</b></sub></a><br /><a href="#content-rowlandm" title="Content">🖋</a></td>
+    <td align="center"><a href="http://www.nicole-brewer.com"><img src="https://avatars.githubusercontent.com/u/20686935?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicole Brewer</b></sub></a><br /><a href="#content-nicole-brewer" title="Content">🖋</a></td>
   </tr>
 </table>
 

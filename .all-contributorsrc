@@ -90,6 +90,15 @@
       ]
     },
     {
+      "login": "nicole-brewer",
+      "name": "Nicole Brewer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20686935?v=4",
+      "profile": "http://www.nicole-brewer.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
       "login": "rowlandm",
       "name": "rowlandm",
       "avatar_url": "https://avatars.githubusercontent.com/u/420050?v=4",
@@ -97,7 +106,6 @@
       "contributions": [
         "content"
       ]
-    }
   ],
   "contributorsPerLine": 7,
   "projectName": "researchsoftware.org",
