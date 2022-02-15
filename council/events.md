@@ -4,7 +4,7 @@ title: The International Council of RSE Associations - Events
 hidetitle: false
 ---
 
-The following is a list of events run by member associations.
+The following is a list of events run by member associations of potential international interest. Note that, in addition, most associations maintain their own complete list of their events.
 
 # 2022
 
