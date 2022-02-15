@@ -34,8 +34,8 @@ For more information, also read
 Read the [Charter of the International Council of RSE Associations](council/charter.html) or download it as a [PDF file](International-Council-of-RSE-Associations_Charter.pdf).
 
 The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are expected to honour it in any participation in or interaction with the Council.
-
-## Current members
+  
+## Current member associations and representatives
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
@@ -52,3 +52,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | Nordic-RSE  | Radovan Bast | radovan.bast@uit.no |
 | US-RSE  | Daniel S. Katz | d.katz@ieee.org |
 | US-RSE  | Nicole Brewer | brewer36@purdue.edu |
+
+## Events
+
+Have a look at the [Council Events](council/events.html) page for a list of events run by member associations of potential international interest. Note that, in addition, most associations maintain their own complete list of their events.
