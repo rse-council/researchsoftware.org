@@ -55,4 +55,4 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 
 ## Events
 
-Have a look at the [Council Events](council/events.html) page for a list of events run by member associations.
+Have a look at the [Council Events](council/events.html) page for a list of events run by member associations of potential international interest. Note that, in addition, most associations maintain their own complete list of their events.
