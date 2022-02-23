@@ -52,7 +52,3 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | Nordic-RSE  | Radovan Bast | radovan.bast@uit.no |
 | US-RSE  | Daniel S. Katz | d.katz@ieee.org |
 | US-RSE  | Nicole Brewer | brewer36@purdue.edu |
-
-## Events
-
-Have a look at the [Council Events](council/events.html) page for a list of events run by member associations of potential international interest. Note that, in addition, most associations maintain their own complete list of their events.
