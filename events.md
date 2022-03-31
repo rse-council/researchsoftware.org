@@ -1,10 +1,12 @@
 ---
 layout: page
-title: The International Council of RSE Associations - Events
-hidetitle: false
+title: Events
+hidetitle: true
 ---
 
-The following is a list of events run by member associations of potential international interest. Note that, in addition, most associations maintain their own complete list of their events. You can find a [list of links to association event pages at the bottom of this page](#association-event-pages).
+## International RSE Events
+
+The following is a list of events run by member associations of the International RSE Council that are of potential international interest. Note that, in addition, most associations maintain their own complete list of their events. You can find a [list of links to national association event pages at the bottom of this page](#association-event-pages).
 
 ## 2022 <!-- Strangely, h2 is larger than h1 -->
 
