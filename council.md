@@ -55,6 +55,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 
 
 ## Observer associations
+
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
 | RSE Asia | Saranjeet Kaur Bhogal | kaur.saranjeet3@gmail.com |
