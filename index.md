@@ -15,7 +15,7 @@ Research Software Engineers are people who combine professional software experti
   The next International RSE Day will be 13th October 2022!</i>
 </div>
 
-# National RSE Associations
+# National/Multinational RSE Associations
 
 [BE-RSE - Belgium Research Software Engineers community](https://be-rse.org/) <br />
 [DE-RSE - Society for Research Software in Germany](http://de-rse.org)  <br />
