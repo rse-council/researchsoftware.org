@@ -52,3 +52,9 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | Nordic-RSE  | Radovan Bast | radovan.bast@uit.no |
 | US-RSE  | Daniel S. Katz | d.katz@ieee.org |
 | US-RSE  | Nicole Brewer | brewer36@purdue.edu |
+
+
+## Observer associations
+| Association | Name | Email |
+| -----------: | :--------------| :--------------|
+| RSE Asia | Saranjeet Kaur Bhogal | kaur.saranjeet3@gmail.com |
