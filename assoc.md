@@ -22,6 +22,8 @@ title: Associations
 
 # National RSE Associations under construction...
 
+* RSE Asia (Contact: [Saranjeet Kaur Bhogal](mailto:kaur.saranjeet3@gmail.com)
+
 Contact us to get your association listed here!
 
 
