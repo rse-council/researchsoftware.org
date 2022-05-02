@@ -25,6 +25,9 @@ Research Software Engineers are people who combine professional software experti
 [SocRSE - Society of Research Software Engineering - UK](https://society-rse.org/)  <br />
 [US-RSE - The US Research Software Engineer Association](http://us-rse.org/) <br />
 
+Observing/Developing RSE Associations
+* RSE Asia
+
 See [the Associations page](http://researchsoftware.org/assoc.html)
 
 # About this site
