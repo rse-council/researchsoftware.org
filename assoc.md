@@ -3,7 +3,7 @@ layout: page
 title: Associations
 ---
 
-# Links to National RSE associations
+# Links to National/Multinational RSE associations
 
 [🇧🇪 BE-RSE - Belgium Research Software Engineers community](https://be-rse.org/)
 
@@ -20,14 +20,14 @@ title: Associations
 [🇺🇸 US-RSE - The US Research Software Engineer Association](http://us-rse.org/)
 
 
-# National RSE Associations under construction...
+# National/Multinational RSE Associations under construction...
 
 * [RSE Asia](https://rse-asia.github.io/RSE_Asia/) (Contact: [Saranjeet Kaur Bhogal](mailto:kaur.saranjeet3@gmail.com))
 
 Contact us to get your association listed here!
 
 
-# Starting a National RSE association
+# Starting a National/Multinational RSE association
 
 If you are thinking about starting something in your country or region, there is a blog post on [How to set up a national RSE association](https://researchsoftware.org/2018/04/18/how-to-setup.html) on this site.
 
