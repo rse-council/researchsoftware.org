@@ -15,7 +15,7 @@ Research Software Engineers are people who combine professional software experti
   The next International RSE Day will be 13th October 2022!</i>
 </div>
 
-# National RSE Associations
+# National/Multinational RSE Associations
 
 [BE-RSE - Belgium Research Software Engineers community](https://be-rse.org/) <br />
 [DE-RSE - Society for Research Software in Germany](http://de-rse.org)  <br />
@@ -24,6 +24,9 @@ Research Software Engineers are people who combine professional software experti
 [RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/) <br />
 [SocRSE - Society of Research Software Engineering - UK](https://society-rse.org/)  <br />
 [US-RSE - The US Research Software Engineer Association](http://us-rse.org/) <br />
+
+Observing/Developing RSE Associations
+* [RSE Asia](https://rse-asia.github.io/RSE_Asia/)
 
 See [the Associations page](http://researchsoftware.org/assoc.html)
 
