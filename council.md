@@ -39,13 +39,11 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
-| Soc RSE | Claire Wyatt | c.wyatt@society-rse.org |
 | Soc RSE | Matt Williams | m.williams@society-rse.org |
 | de-RSE  | Stephan Druskat | stephan.druskat@dlr.de |
 | de-RSE  | Frank Löffler | frank.loeffler@uni-jena.de |
 | BE-RSE  | Alexander Botzki | alexander.botzki@vib.be |
 | BE-RSE  | Johan Philips | johan.philips@kuleuven.be |
-| NL-RSE  | Anna-Lena Lamprecht | a.l.lamprecht@uu.nl |
 | NL-RSE  | Ben van Werkhoven | b.vanwerkhoven@esciencecenter.nl |
 | RSE-AUNZ    | Rowland Mosbergen | rowlandm@practicaldiversity.org |
 | Nordic-RSE  | Anne Claire Fouilloux | annefou@geo.uio.no |
