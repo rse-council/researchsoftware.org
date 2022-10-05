@@ -22,7 +22,7 @@ hold regular or special events on this day, such as:
 
 ## International RSE Day 2022 - Events
 
-- ### **[de-RSE]** [de-RSE International RSE day](https://github.com/DE-RSE/projekte/issues/11)
+- ### **[de-RSE]** [de-RSE International RSE day](https://pad.gwdg.de/44b79pTvSYae9QEr8c5Dhw)
 
 
 <br/><br/>
