@@ -9,10 +9,10 @@ This is the website of the international research software engineering community
 Research Software Engineers are people who combine professional software expertise with an understanding of research. They go by various job titles but the term Research Software Engineer (RSE) is fast gaining international recognition.
 
 <div style="position: relative; height: auto; border: 2px solid #841b5f; margin: 10px auto; padding: 10px; box-sizing: border-box; background-color: #f0e1e8; border-radius: 5px;">
-<h3 style="padding: 0; margin: 0;">14th October 2021 was the first <i>International RSE Day</i>!<br>
+<h3 style="padding: 0; margin: 0;">On 13th October 2022 we're celebrating the second <i>International RSE Day</i>!<br>
 <a href="council/intl-rse-day.html">Read more ...</a></h3>
 <i>International RSE Day is the second Thursday of October each year.<br>
-  The next International RSE Day will be 13th October 2022!</i>
+  The next International RSE Day will be 12th October 2023!</i>
 </div>
 
 # National/Multinational RSE Associations
