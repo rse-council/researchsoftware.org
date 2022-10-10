@@ -23,6 +23,7 @@ hold regular or special events on this day, such as:
 ## International RSE Day 2022 - Events
 
 - ### **[de-RSE]** [de-RSE International RSE day](https://pad.gwdg.de/44b79pTvSYae9QEr8c5Dhw)
+- ### **[SocRSE]** [Society of Research Software Engineering UK International RSE day](https://society-rse.org/international-rse-day-13th-october-2022/)
 
 
 <br/><br/>
