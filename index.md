@@ -24,6 +24,7 @@ Research Software Engineers are people who combine professional software experti
 [RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/) <br />
 [SocRSE - Society of Research Software Engineering - UK](https://society-rse.org/)  <br />
 [US-RSE - The US Research Software Engineer Association](http://us-rse.org/) <br />
+[Danish RSE - Danish Research Software Engineers Community](https://dighumlab.org/danish-rse/) <br />
 
 Observing/Developing RSE Associations
 * [RSE Asia](https://rse-asia.github.io/RSE_Asia/)

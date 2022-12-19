@@ -19,6 +19,8 @@ title: Associations
 
 [🇺🇸 US-RSE - The US Research Software Engineer Association](http://us-rse.org/)
 
+[🇩🇰 Danish RSE - Danish Research Software Engineers Community](https://dighumlab.org/danish-rse/)
+
 
 # National/Multinational RSE Associations under construction...
 
