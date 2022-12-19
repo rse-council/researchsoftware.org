@@ -7,7 +7,7 @@ hidetitle: false
 The [International Council of RSE Associations](../council.md) has decided to declare 
 the second Thursday in October to be the annual "International RSE Day". 
 
-### The second International RSE Day will be<br>*Thursday, 13th October 2022*.
+### The second International RSE Day was<br>*Thursday, 13th October 2022*.
 
 The International RSE Day is to celebrate Research Software Engineers around the world 
 and raise awareness for the increasingly relevant discipline of Research Software 
@@ -27,6 +27,10 @@ hold regular or special events on this day, such as:
 - ### **[US-RSE]** [US-RSE Community Building Workshop Next Steps Community Call](https://asu.zoom.us/meeting/register/tZ0ude-vrDIpHd0cj_pPM_5u-6gSpoZvnRoW)
 
 <br/><br/>
+
+## International RSE Day 2023
+
+The next International RSE Day will be Thursday, 12th October, 2023.
 
 #### International RSE Day 2021 - Events
 
