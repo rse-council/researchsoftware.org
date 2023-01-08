@@ -51,7 +51,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | Nordic-RSE  | Radovan Bast | radovan.bast@uit.no |
 <!--
 | US-RSE  | TBD | TBD |
--->
+| US-RSE  | Jeffrey Carver | carver@cs.ua.edu
 | US-RSE  | Nicole Brewer | brewer36@purdue.edu |
 
 
