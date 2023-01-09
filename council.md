@@ -49,7 +49,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | RSE-AUNZ    | Rowland Mosbergen | rowlandm@practicaldiversity.org |
 | Nordic-RSE  | Anne Claire Fouilloux | annefou@geo.uio.no |
 | Nordic-RSE  | Radovan Bast | radovan.bast@uit.no |
-| US-RSE  | Daniel S. Katz | d.katz@ieee.org |
+| US-RSE  | Jeffrey Carver | carver@cs.ua.edu |
 | US-RSE  | Nicole Brewer | brewer36@purdue.edu |
 
 
