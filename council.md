@@ -40,7 +40,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
 | Soc RSE | Matt Williams | m.williams@society-rse.org |
-| de-RSE  | Stephan Druskat | stephan.druskat@dlr.de |
+| de-RSE  | Anna-Lena Lamprecht| anna-lena.lamprecht@uni-potsdam.de |
 | de-RSE  | Frank Löffler | frank.loeffler@uni-jena.de |
 | BE-RSE  | Alexander Botzki | alexander.botzki@vib.be |
 | BE-RSE  | Johan Philips | johan.philips@kuleuven.be |
