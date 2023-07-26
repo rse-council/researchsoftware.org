@@ -40,7 +40,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
 | Soc RSE | David Beavan | d.beavan@society-rse.org |
-| Soc RSE | Evelina Gabasova | e.gabasova@society-rse.org@society-rse.org |
+| Soc RSE | Evelina Gabasova | e.gabasova@society-rse.org |
 | de-RSE  | Anna-Lena Lamprecht| anna-lena.lamprecht@uni-potsdam.de |
 | de-RSE  | Frank Löffler | frank.loeffler@uni-jena.de |
 | BE-RSE  | Alexander Botzki | alexander.botzki@vib.be |
