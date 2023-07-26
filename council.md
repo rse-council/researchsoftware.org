@@ -45,7 +45,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | de-RSE  | Frank Löffler | frank.loeffler@uni-jena.de |
 | BE-RSE  | Alexander Botzki | alexander.botzki@vib.be |
 | BE-RSE  | Johan Philips | johan.philips@kuleuven.be |
-| NL-RSE  | Ben van Werkhoven | b.vanwerkhoven@esciencecenter.nl |
+| NL-RSE  | Thomas Pronk | t.pronk1@amsterdamumc.nl |
 | NL-RSE  | Yan Grange | grange@astron.nl | 
 | RSE-AUNZ    | Rowland Mosbergen | rowlandm@practicaldiversity.org |
 | Nordic-RSE  | Anne Claire Fouilloux | annefou@geo.uio.no |
