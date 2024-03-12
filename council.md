@@ -50,7 +50,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | RSE-AUNZ    | Rowland Mosbergen | rowlandm@practicaldiversity.org |
 | Nordic-RSE  | Anne Claire Fouilloux | annefou@geo.uio.no |
 | Nordic-RSE  | Radovan Bast | radovan.bast@uit.no |
-| US-RSE  | Keith Beattie | KSBeattie@lbl.gov |
+| US-RSE  | Keith Beattie | ksbeattie@lbl.gov |
 | US-RSE  | Rinku Gupta | rgupta@anl.gov |
 
 
