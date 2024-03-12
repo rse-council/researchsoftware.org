@@ -50,8 +50,8 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | RSE-AUNZ    | Rowland Mosbergen | rowlandm@practicaldiversity.org |
 | Nordic-RSE  | Anne Claire Fouilloux | annefou@geo.uio.no |
 | Nordic-RSE  | Radovan Bast | radovan.bast@uit.no |
-| US-RSE  | Jeffrey Carver | carver@cs.ua.edu |
-| US-RSE  | Nicole Brewer | brewer36@purdue.edu |
+| US-RSE  | Keith Beattie | ksbeattie@lbl.gov |
+| US-RSE  | Rinku Gupta | rgupta@anl.gov |
 
 
 ## Observer associations
