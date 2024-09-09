@@ -21,6 +21,7 @@ title: Associations
 
 [🇩🇰 Danish RSE - Danish Research Software Engineers Community](https://dighumlab.org/danish-rse/)
 
+[🇫🇷 DEVLOG - French Research Software Engineers](https://www.devlog.cnrs.fr/)
 
 # National/Multinational RSE Associations under construction...
 
