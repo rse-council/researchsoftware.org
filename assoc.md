@@ -7,6 +7,10 @@ title: Associations
 
 [🇧🇪 BE-RSE - Belgium Research Software Engineers community](https://be-rse.org/)
 
+[🇩🇰 Danish RSE - Danish Research Software Engineers Community](https://dighumlab.org/danish-rse/)
+
+[🇫🇷 DEVLOG - French Research Software Engineers](https://www.devlog.cnrs.fr/)
+
 [🇩🇪 DE-RSE - Society for Research Software in Germany](http://de-rse.org)
 
 [🇳🇱 NL-RSE - The community of Research Software Engineers in the Netherlands](http://nl-rse.org)
@@ -19,9 +23,6 @@ title: Associations
 
 [🇺🇸 US-RSE - The US Research Software Engineer Association](http://us-rse.org/)
 
-[🇩🇰 Danish RSE - Danish Research Software Engineers Community](https://dighumlab.org/danish-rse/)
-
-[🇫🇷 DEVLOG - French Research Software Engineers](https://www.devlog.cnrs.fr/)
 
 # National/Multinational RSE Associations under construction...
 
