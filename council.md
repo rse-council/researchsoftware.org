@@ -12,10 +12,10 @@ have always informally talked and collaborated by a variety of means.
 
 The **International Council of RSE Associations** (*the Council*) provides a 
 formal open forum for established national and multinational RSE associations 
-to talk and coordinate regularly, and thus sustain international collaboration.
+to talk and coordinate about RSE-related issues regularly, and thus sustain international collaboration around research software engineering/engineers.
 
 The Council consists of delegates from the established RSE associations, who
-meet regularly to coordinate, discuss and collaborate. It is governed by a 
+meet regularly to coordinate, discuss and collaborate around research software engineering/engineers. It is governed by a 
 [charter](council/charter.html). Further national or multinational RSE 
 associations can join the Council once they pass a threshold for establishment 
 that is defined in the charter.
