@@ -58,4 +58,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
-| RSE Asia | Saranjeet Kaur Bhogal | kaur.saranjeet3@gmail.com |
+| RSE Asia | Saranjeet Kaur and Jyoti Bhogal | kaur.saranjeet3@gmail.com, bhogaljyoti1@gmail.com |
+| RSSE Africa | Anelda van der Walt | team@rsse.africa |
+| Swiss RSE Community | Uwe Schmitt | uwe.schmitt@id.ethz.ch |
+| Research Software Canada (rscan) | Qian Zhang and Fares Dhane | qian.zhang@alliancecan.ca, fares.dhane@alliancecan.ca |
