@@ -39,17 +39,18 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
-| Soc RSE | David Beavan | <d.beavan@society-rse.org> |
-| Soc RSE | Evelina Gabasova | <e.gabasova@society-rse.org> |
-| de-RSE  | Anna-Lena Lamprecht| <anna-lena.lamprecht@uni-potsdam.de> |
-| de-RSE  | Frank Löffler | <frank.loeffler@uni-jena.de> |
 | BE-RSE  | Alexander Botzki | <alexander.botzki@vib.be> |
 | BE-RSE  | Johan Philips | <johan.philips@kuleuven.be> |
+| de-RSE  | Anna-Lena Lamprecht| <anna-lena.lamprecht@uni-potsdam.de> |
+| de-RSE  | Frank Löffler | <frank.loeffler@uni-jena.de> |
 | NL-RSE  | Thomas Pronk | <t.pronk1@amsterdamumc.nl> |
 | NL-RSE  | Yan Grange | <grange@astron.nl> |
-| RSE-AUNZ    | Rowland Mosbergen | <rowlandm@practicaldiversity.org> |
 | Nordic-RSE  | Anne Claire Fouilloux | <annefou@geo.uio.no> |
 | Nordic-RSE  | Radovan Bast | <radovan.bast@uit.no> |
+| Research Software Canada (rscan) | Ockmer Oosthuizen and Fares Dhane | <ockmer.oosthuizen@alliancecan.ca>, <fares.dhane@alliancecan.ca> |
+| RSE-AUNZ    | Rowland Mosbergen | <rowlandm@practicaldiversity.org> |
+| Soc RSE | David Beavan | <d.beavan@society-rse.org> |
+| Soc RSE | Evelina Gabasova | <e.gabasova@society-rse.org> |
 | US-RSE  | Keith Beattie | <ksbeattie@lbl.gov> |
 | US-RSE  | Rinku Gupta | <rgupta@anl.gov> |
 
@@ -60,4 +61,3 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | RSE Asia | Saranjeet Kaur and Jyoti Bhogal | <kaur.saranjeet3@gmail.com>, <bhogaljyoti1@gmail.com> |
 | RSSE Africa | Anelda van der Walt | <team@rsse.africa> |
 | Swiss RSE Community | Uwe Schmitt | <uwe.schmitt@id.ethz.ch> |
-| Research Software Canada (rscan) | Ockmer Oosthuizen and Fares Dhane | <ockmer.oosthuizen@alliancecan.ca>, <fares.dhane@alliancecan.ca> |
