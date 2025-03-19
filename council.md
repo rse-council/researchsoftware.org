@@ -48,9 +48,9 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | Nordic-RSE  | Anne Claire Fouilloux | <annefou@geo.uio.no> |
 | Nordic-RSE  | Radovan Bast | <radovan.bast@uit.no> |
 | Research Software Canada (rscan) | Ockmer Oosthuizen and Fares Dhane | <ockmer.oosthuizen@alliancecan.ca>, <fares.dhane@alliancecan.ca> |
-| RSE-AUNZ    | Rowland Mosbergen | <rowlandm@practicaldiversity.org> |
-| Soc RSE | David Beavan | <d.beavan@society-rse.org> |
-| Soc RSE | Evelina Gabasova | <e.gabasova@society-rse.org> |
+| RSE-AUNZ    | TBD | TBD |
+| Soc RSE | Fliss Guest | <f.guest@society-rse.org> |
+| Soc RSE | Mike Simpson | <m.simpson@society-rse.org> |
 | US-RSE  | Keith Beattie | <ksbeattie@lbl.gov> |
 | US-RSE  | Rinku Gupta | <rgupta@anl.gov> |
 
