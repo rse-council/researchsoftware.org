@@ -52,7 +52,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | Soc RSE | Fliss Guest | <f.guest@society-rse.org> |
 | Soc RSE | Mike Simpson | <m.simpson@society-rse.org> |
 | US-RSE  | Keith Beattie | <ksbeattie@lbl.gov> |
-| US-RSE  | Rinku Gupta | <rgupta@anl.gov> |
+| US-RSE  | Ian Cosden | <icosden@princeton.edu> |
 
 ## Observer associations
 
