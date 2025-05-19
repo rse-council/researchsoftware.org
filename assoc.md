@@ -19,7 +19,7 @@ title: Associations
 
 [🇨🇦 RSCAN - Research Software Canada](https://github.com/alliancecan/RSCAN)
 
-[RSE Asia](https://rse-asia.github.io/RSE_Asia/)
+[RSE Asia - RSE Asia Association](https://rse-asia.github.io/RSE_Asia/)
 
 [🇦🇺🇳🇿 RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/)
 
