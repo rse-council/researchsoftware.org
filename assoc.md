@@ -17,7 +17,13 @@ title: Associations
 
 [🇳🇴🇸🇪🇫🇮🇩🇰🇮🇸 NORDIC-RSE - Nordic Research Software Engineers Community](http://nordic-rse.org/)
 
+[🇨🇦 RSCAN - Research Software Canada](https://github.com/alliancecan/RSCAN)
+
+[RSE Asia](https://rse-asia.github.io/RSE_Asia/)
+
 [🇦🇺🇳🇿 RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/)
+
+[RSSE Africa - Research Software & Systems Engineers of Africa](https://rsse.africa/)
 
 [🇬🇧 Soc-RSE - Society of Research Software Engineering - UK](https://society-rse.org/)
 
@@ -26,7 +32,7 @@ title: Associations
 
 # National/Multinational RSE Associations under construction...
 
-* [RSE Asia](https://rse-asia.github.io/RSE_Asia/) (Contact: [Saranjeet Kaur Bhogal](mailto:kaur.saranjeet3@gmail.com))
+- Swiss RSE Community
 
 Contact us to get your association listed here!
 
