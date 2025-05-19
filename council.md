@@ -39,25 +39,27 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
-| BE-RSE  | Alexander Botzki | <alexander.botzki@vib.be> |
-| BE-RSE  | Johan Philips | <johan.philips@kuleuven.be> |
-| de-RSE  | Anna-Lena Lamprecht| <anna-lena.lamprecht@uni-potsdam.de> |
-| de-RSE  | Frank Löffler | <frank.loeffler@uni-jena.de> |
-| NL-RSE  | Thomas Pronk | <t.pronk1@amsterdamumc.nl> |
-| NL-RSE  | Yan Grange | <grange@astron.nl> |
-| Nordic-RSE  | Anne Claire Fouilloux | <annefou@geo.uio.no> |
-| Nordic-RSE  | Radovan Bast | <radovan.bast@uit.no> |
-| Research Software Canada (rscan) | Ockmer Oosthuizen and Fares Dhane | <ockmer.oosthuizen@alliancecan.ca>, <fares.dhane@alliancecan.ca> |
-| RSE-AUNZ    | TBD | TBD |
-| Soc RSE | Fliss Guest | <f.guest@society-rse.org> |
-| Soc RSE | Mike Simpson | <m.simpson@society-rse.org> |
-| US-RSE  | Keith Beattie | <ksbeattie@lbl.gov> |
-| US-RSE  | Ian Cosden | <icosden@princeton.edu> |
+| [BE-RSE](https://be-rse.org/)  | Alexander Botzki | <alexander.botzki@vib.be> |
+| [BE-RSE](https://be-rse.org/)  | Johan Philips | <johan.philips@kuleuven.be> |
+| [de-RSE](http://de-rse.org/)  | Anna-Lena Lamprecht| <anna-lena.lamprecht@uni-potsdam.de> |
+| [de-RSE](http://de-rse.org/)  | Frank Löffler | <frank.loeffler@uni-jena.de> |
+| [NL-RSE](http://nl-rse.org/)  | Thomas Pronk | <t.pronk1@amsterdamumc.nl> |
+| [NL-RSE](http://nl-rse.org/)  | Yan Grange | <grange@astron.nl> |
+| [Nordic-RSE](http://nordic-rse.org/)  | Anne Claire Fouilloux | <annefou@geo.uio.no> |
+| [Nordic-RSE](http://nordic-rse.org/)  | Radovan Bast | <radovan.bast@uit.no> |
+| [RSCAN](https://github.com/alliancecan/RSCAN) | Ockmer Oosthuizen | <ockmer.oosthuizen@alliancecan.ca> |
+| [RSCAN](https://github.com/alliancecan/RSCAN) | Fares Dhane | <fares.dhane@alliancecan.ca> |
+| [RSE-AUNZ](https://rse-aunz.github.io/) | TBD | TBD |
+| [Soc RSE](https://society-rse.org/) | Fliss Guest | <f.guest@society-rse.org> |
+| [Soc RSE](https://society-rse.org/) | Mike Simpson | <m.simpson@society-rse.org> |
+| [US-RSE](http://us-rse.org/) | Keith Beattie | <ksbeattie@lbl.gov> |
+| [US-RSE](http://us-rse.org/)  | Ian Cosden | <icosden@princeton.edu> |
 
 ## Observer associations
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
-| RSE Asia | Saranjeet Kaur and Jyoti Bhogal | <kaur.saranjeet3@gmail.com>, <bhogaljyoti1@gmail.com> |
-| RSSE Africa | Anelda van der Walt | <team@rsse.africa> |
+| [RSE Asia](https://rse-asia.github.io/RSE_Asia/) | Saranjeet Kaur | <kaur.saranjeet3@gmail.com> |
+| [RSE Asia](https://rse-asia.github.io/RSE_Asia/) | Jyoti Bhogal | <bhogaljyoti1@gmail.com> |
+| [RSSE Africa](https://rsse.africa/) | Anelda van der Walt | <team@rsse.africa> |
 | Swiss RSE Community | Uwe Schmitt | <uwe.schmitt@id.ethz.ch> |
