@@ -18,17 +18,20 @@ Research Software Engineers are people who combine professional software experti
 # National/Multinational RSE Associations
 
 [BE-RSE - Belgium Research Software Engineers community](https://be-rse.org/) <br />
+[Danish RSE - Danish Research Software Engineers Community](https://dighumlab.org/danish-rse/) <br />
 [DE-RSE - Society for Research Software in Germany](http://de-rse.org)  <br />
+[DEVLOG - French Research Software Engineers](https://www.devlog.cnrs.fr/) <br />
 [NL-RSE - The community of Research Software Engineers in the Netherlands](http://nl-rse.org)  <br />
 [NORDIC-RSE - Nordic Research Software Engineers Community](http://nordic-rse.org/) <br />
+[RSCAN - Research Software Canada](https://github.com/alliancecan/RSCAN) <br />
+[RSE Asia](https://rse-asia.github.io/RSE_Asia/) <br />
 [RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/) <br />
+[RSSE Africa - Research Software & Systems Engineers of Africa](https://rsse.africa/) <br />
 [SocRSE - Society of Research Software Engineering - UK](https://society-rse.org/)  <br />
+Swiss RSE Community <br />
 [US-RSE - The US Research Software Engineer Association](http://us-rse.org/) <br />
-[Danish RSE - Danish Research Software Engineers Community](https://dighumlab.org/danish-rse/) <br />
-[DEVLOG - French Research Software Engineers](https://www.devlog.cnrs.fr/) <br />
 
-Observing/Developing RSE Associations
-* [RSE Asia](https://rse-asia.github.io/RSE_Asia/)
+
 
 See [the Associations page](http://researchsoftware.org/assoc.html)
 
