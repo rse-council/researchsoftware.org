@@ -45,8 +45,8 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | [de-RSE](http://de-rse.org/)  | Frank Löffler | <frank.loeffler@uni-jena.de> |
 | [NL-RSE](http://nl-rse.org/)  | Thomas Pronk | <t.pronk1@amsterdamumc.nl> |
 | [NL-RSE](http://nl-rse.org/)  | Yan Grange | <grange@astron.nl> |
-| [Nordic-RSE](http://nordic-rse.org/)  | Anne Claire Fouilloux | <annefou@geo.uio.no> |
-| [Nordic-RSE](http://nordic-rse.org/)  | Radovan Bast | <radovan.bast@uit.no> |
+| [Nordic-RSE](http://nordic-rse.org/)  | Samantha Wittke | <samantha.wittke@csc.fi> |
+| [Nordic-RSE](http://nordic-rse.org/)  | Matteo Tomasini | <matteo.tomasini@gu.se> |
 | [RSCAN](https://github.com/alliancecan/RSCAN) | Ockmer Oosthuizen | <ockmer.oosthuizen@alliancecan.ca> |
 | [RSCAN](https://github.com/alliancecan/RSCAN) | Fares Dhane | <fares.dhane@alliancecan.ca> |
 | [RSE-AUNZ](https://rse-aunz.github.io/) | TBD | TBD |
