@@ -27,12 +27,12 @@ title: Associations
 
 [🇬🇧 Soc-RSE - Society of Research Software Engineering - UK](https://society-rse.org/)
 
+[🇨🇭 Swiss RSE Community](https://rse.swiss//)
+
 [🇺🇸 US-RSE - The US Research Software Engineer Association](http://us-rse.org/)
 
 
 # National/Multinational RSE Associations under construction...
-
-- Swiss RSE Community
 
 Contact us to get your association listed here!
 
