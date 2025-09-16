@@ -50,7 +50,6 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | [RSCAN](https://github.com/alliancecan/RSCAN) | Ockmer Oosthuizen | <ockmer.oosthuizen@alliancecan.ca> |
 | [RSCAN](https://github.com/alliancecan/RSCAN) | Fares Dhane | <fares.dhane@alliancecan.ca> |
 | [RSE-AUNZ](https://rse-aunz.github.io/) | TBD | TBD |
-| [Soc RSE](https://society-rse.org/) | Fliss Guest | <f.guest@society-rse.org> |
 | [Soc RSE](https://society-rse.org/) | Mike Simpson | <m.simpson@society-rse.org> |
 | [US-RSE](http://us-rse.org/) | Keith Beattie | <ksbeattie@lbl.gov> |
 | [US-RSE](http://us-rse.org/)  | Ian Cosden | <icosden@princeton.edu> |
