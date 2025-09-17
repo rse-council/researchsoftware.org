@@ -60,6 +60,6 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | -----------: | :--------------| :--------------|
 | [RSE Asia](https://rse-asia.github.io/RSE_Asia/) | Saranjeet Kaur | <kaur.saranjeet3@gmail.com> |
 | [RSE Asia](https://rse-asia.github.io/RSE_Asia/) | Jyoti Bhogal | <bhogaljyoti1@gmail.com> |
-| [RSSE Africa](https://rsse.africa/) | Anelda van der Walt | <team@rsse.africa> |
 | [RSE Chile](https://rse-chile.github.io/) | Riva Quiroga | <rivaquiroga@gmail.com> |
+| [RSSE Africa](https://rsse.africa/) | Anelda van der Walt | <team@rsse.africa> |
 | [Swiss RSE Community](https://rse.swiss/) | Uwe Schmitt | <uwe.schmitt@id.ethz.ch> |
