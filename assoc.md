@@ -23,6 +23,8 @@ title: Associations
 
 [🇦🇺🇳🇿 RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/)
 
+[🇨🇱 RSE Chile | Software para Investigación](https://rse-chile.github.io/)
+
 [RSSE Africa - Research Software & Systems Engineers of Africa](https://rsse.africa/)
 
 [🇬🇧 Soc-RSE - Society of Research Software Engineering - UK](https://society-rse.org/)
