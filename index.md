@@ -26,10 +26,11 @@ Research Software Engineers are people who combine professional software experti
 [NORDIC-RSE - Nordic Research Software Engineers Community](http://nordic-rse.org/) <br />
 [RSCAN - Research Software Canada](https://github.com/alliancecan/RSCAN) <br />
 [RSE Asia](https://rse-asia.github.io/RSE_Asia/) <br />
+[RSE Chile](https://rse-chile.github.io/) <br />
 [RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/) <br />
 [RSSE Africa - Research Software & Systems Engineers of Africa](https://rsse.africa/) <br />
 [SocRSE - Society of Research Software Engineering - UK](https://society-rse.org/)  <br />
-Swiss RSE Community <br />
+[Swiss RSE Community](https://rse.swiss//) <br />
 [US-RSE - The US Research Software Engineer Association](http://us-rse.org/) <br />
 
 
