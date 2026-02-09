@@ -58,8 +58,8 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
-| [RSE Argentina](https://rse-argentina.github.io/)| Patricia Loto | <patricia.andrea.loto@gmail.com> |
-| [RSE Argentina](https://rse-argentina.github.io/)| Andrea Gomez Vargas | <andrea.gomezv11@gmail.com> |
+| [RSE Argentina](https://rse-argentina.github.io/)| Patricia Loto | <rse.comunidad.argentina@gmail.com> |
+| [RSE Argentina](https://rse-argentina.github.io/)| Andrea Gomez Vargas | <rse.comunidad.argentina@gmail.com> |
 | [RSE Asia](https://rse-asia.github.io/RSE_Asia/) | Saranjeet Kaur | <kaur.saranjeet3@gmail.com> |
 | [RSE Asia](https://rse-asia.github.io/RSE_Asia/) | Jyoti Bhogal | <bhogaljyoti1@gmail.com> |
 | [RSE Chile](https://rse-chile.github.io/) | Riva Quiroga | <rivaquiroga@gmail.com> |
