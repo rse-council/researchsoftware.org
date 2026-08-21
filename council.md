@@ -42,7 +42,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | [BE-RSE](https://be-rse.org/)  | Alexander Botzki | <alexander.botzki@vib.be> |
 | [BE-RSE](https://be-rse.org/)  | Johan Philips | <johan.philips@kuleuven.be> |
 | [de-RSE](http://de-rse.org/)  | Anna-Lena Lamprecht| <anna-lena.lamprecht@uni-potsdam.de> |
-| [de-RSE](http://de-rse.org/)  | Frank Löffler | <frank.loeffler@uni-jena.de> |
+| [de-RSE](http://de-rse.org/)  | Frank Löffler | <frank.loeffler@de-rse.org> |
 | [NL-RSE](http://nl-rse.org/)  | Thomas Pronk | <t.pronk1@amsterdamumc.nl> |
 | [NL-RSE](http://nl-rse.org/)  | Yan Grange | <grange@astron.nl> |
 | [Nordic-RSE](http://nordic-rse.org/)  | Samantha Wittke | <samantha.wittke@csc.fi> |
