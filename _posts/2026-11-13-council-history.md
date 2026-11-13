@@ -34,11 +34,11 @@ began to discuss the need for a venue for RSE organizations to talk to each othe
 
 Together, the group drafted the first version of a charter for an International Council of RSE Associations,
 which was subsequently discussed and refined by meeting participants.
-See https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html
+See <https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html>.
 
 The council started in 2021 with two members from each organization
-(https://github.com/rse-council/researchsoftware.org/commit/7116d29e5bf6d48e87e3cfc438b96ba0b626e67b),
-who have changed often, and a charter (https://github.com/rse-council/researchsoftware.org/blob/main/council/charter.md),
+(see <https://github.com/rse-council/researchsoftware.org/commit/7116d29e5bf6d48e87e3cfc438b96ba0b626e67b> for the original members),
+who have changed often, and a [charter](https://github.com/rse-council/researchsoftware.org/blob/main/council/charter.md),
 which has been unchanged. As an example of cooperative, multinational RSE advocacy the council decided
 to declare the second Thursday in October each year as International RSE Day.
 The first International RSE Day was celebrated on 14 October 2021.
