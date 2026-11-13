@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "A Brief History of the International Council of RSE Associations"
-image: /img/introducing-international-council-rse-assocs.png
+image: /img/nick-fewings-BAZejJdZ57w-unsplash.jpg
 ---
-Photo by [Mat Reding](https://unsplash.com/@matreding) on [Unsplash](https://unsplash.com/).
+Photo by [Nick Fewings](https://unsplash.com/jannerboy62) on [Unsplash](https://unsplash.com/).
 
 **Authors**
 
