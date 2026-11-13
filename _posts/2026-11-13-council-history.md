@@ -40,7 +40,7 @@ The council started in 2021 with two members from each organization
 (https://github.com/rse-council/researchsoftware.org/commit/7116d29e5bf6d48e87e3cfc438b96ba0b626e67b),
 who have changed often, and a charter (https://github.com/rse-council/researchsoftware.org/blob/main/council/charter.md),
 which has been unchanged. As an example of cooperative, multinational RSE advocacy the council decided
-to declare an International RSE Day, taking place on the second Thursday in October each year.
+to declare the second Thursday in October each year as International RSE Day.
 The first International RSE Day was celebrated on 14 October 2021.
 
 Initially, the council didn't have any schedule of regular meetings or leader/chair. It used a rotating
