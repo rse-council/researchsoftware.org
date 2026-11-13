@@ -33,6 +33,8 @@ For more information, also read
 
 Read the [Charter of the International Council of RSE Associations](council/charter.html) or download it as a [PDF file](International-Council-of-RSE-Associations_Charter.pdf).
 
+See [A Brief History of the International Council of RSE Associations](https://researchsoftware.org/2026/11/13/council-history.html).
+
 The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are expected to honour it in any participation in or interaction with the Council.
   
 ## Current member associations and representatives
