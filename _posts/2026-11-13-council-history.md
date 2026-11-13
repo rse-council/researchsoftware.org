@@ -13,13 +13,14 @@ Photo by [Mat Reding](https://unsplash.com/@matreding) on [Unsplash](https://uns
 - Ian Cosden (co-founder, US-RSE and co-founder, International Council)
 - Anna-Lena Lamprecht (council member for NL-RSE and later de-RSE)
 
-
 In the beginning, there was the Software Sustainability Institute (SSI),
 which encouraged and helped found the creation of the UK Research Software
 Engineers Association in 2013-2014, and later a grant for the RSE Network provided,
 amongst other things, the funding for an annual conference which began in 2016.
 International attendees at the conference and the later ones started their own
 RSE organizations, and the UK RSE Association became a Society.
+
+<!--break-->
 
 In 2017-2018, the SSI began work to make RSE sustainable by ensuring that the RSE
 community could exist entirely independently of it. Up to 2020, new national RSE
