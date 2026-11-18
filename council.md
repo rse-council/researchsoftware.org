@@ -44,14 +44,19 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | [BE-RSE](https://be-rse.org/)  | Alexander Botzki | <alexander.botzki@vib.be> |
 | [BE-RSE](https://be-rse.org/)  | Johan Philips | <johan.philips@kuleuven.be> |
 | [de-RSE](http://de-rse.org/)  | Anna-Lena Lamprecht| <anna-lena.lamprecht@uni-potsdam.de> |
+| [de-RSE](http://de-rse.org/)  | Claire Wyatt | <cl.wyatt@fz-juelich.de> |
 | [de-RSE](http://de-rse.org/)  | Frank Löffler | <frank.loeffler@de-rse.org> |
+| [de-RSE](http://de-rse.org/)  | Stephan Druskat | <s.druskat@tu-braunschweig.de> |
+| [devLOG](https://www.devlog.cnrs.fr/)  | Karin Dassas| tbc |
+| [devLOG](https://www.devlog.cnrs.fr/)  | Dirk Hoffman | tbc |
 | [NL-RSE](http://nl-rse.org/)  | Thomas Pronk | <t.pronk1@amsterdamumc.nl> |
 | [NL-RSE](http://nl-rse.org/)  | Yan Grange | <grange@astron.nl> |
 | [Nordic-RSE](http://nordic-rse.org/)  | Samantha Wittke | <samantha.wittke@csc.fi> |
 | [Nordic-RSE](http://nordic-rse.org/)  | Matteo Tomasini | <matteo.tomasini@gu.se> |
 | [RSCAN](https://github.com/alliancecan/RSCAN) | Ockmer Oosthuizen | <ockmer.oosthuizen@alliancecan.ca> |
 | [RSCAN](https://github.com/alliancecan/RSCAN) | Fares Dhane | <fares.dhane@alliancecan.ca> |
-| [RSE-AUNZ](https://rse-aunz.github.io/) | TBD | TBD |
+| [RSE-AUNZ](https://rse-aunz.github.io/) | Peter Marendy | tbc |
+| [Soc RSE](https://society-rse.org/) | Laura Crawford | <m.simpson@society-rse.org> |
 | [Soc RSE](https://society-rse.org/) | Mike Simpson | <m.simpson@society-rse.org> |
 | [US-RSE](http://us-rse.org/) | Keith Beattie | <ksbeattie@lbl.gov> |
 | [US-RSE](http://us-rse.org/)  | Ian Cosden | <icosden@princeton.edu> |
