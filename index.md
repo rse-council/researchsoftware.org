@@ -20,7 +20,7 @@ Research Software Engineers are people who combine professional software experti
 
 {% include_relative shared-content/associations.md %}
 
-See [the Associations page](http://researchsoftware.org/assoc.html)
+See [the Associations page](https://researchsoftware.org/assoc.html)
 
 # About this site
 
