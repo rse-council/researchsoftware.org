@@ -43,9 +43,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | -----------: | :--------------| :--------------|
 | [{% include flags.html code="be" alt="Belgium" %} BE-RSE](https://be-rse.org/)  | Alexander Botzki | <alexander.botzki@vib.be> |
 | [{% include flags.html code="be" alt="Belgium" %} BE-RSE](https://be-rse.org/)  | Johan Philips | <johan.philips@kuleuven.be> |
-| [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Anna-Lena Lamprecht| <anna-lena.lamprecht@uni-potsdam.de> |
 | [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Claire Wyatt | <cl.wyatt@fz-juelich.de> |
-| [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Frank Löffler | <frank.loeffler@de-rse.org> |
 | [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Stephan Druskat | <s.druskat@tu-braunschweig.de> |
 | [{% include flags.html code="fr" alt="France" %} devLOG](https://www.devlog.cnrs.fr/)  | Karin Dassas| tbc |
 | [{% include flags.html code="fr" alt="France" %} devLOG](https://www.devlog.cnrs.fr/)  | Dirk Hoffman | tbc |
@@ -65,6 +63,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
+| [CURIOSS](https://curioss.org/) | Clare Dillon | tbd
 | [{% include flags.html code="ar" alt="Argentina" %} RSE Argentina](https://rse-argentina.github.io/)| Patricia Loto | <rse.comunidad.argentina@gmail.com> |
 | [{% include flags.html code="ar" alt="Argentina" %} RSE Argentina](https://rse-argentina.github.io/)| Andrea Gomez Vargas | <rse.comunidad.argentina@gmail.com> |
 | [RSE Asia](https://rse-asia.github.io/RSE_Asia/) | Saranjeet Kaur | <kaur.saranjeet3@gmail.com> |
