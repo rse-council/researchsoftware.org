@@ -41,35 +41,35 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
-| [BE-RSE](https://be-rse.org/)  | Alexander Botzki | <alexander.botzki@vib.be> |
-| [BE-RSE](https://be-rse.org/)  | Johan Philips | <johan.philips@kuleuven.be> |
-| [de-RSE](http://de-rse.org/)  | Anna-Lena Lamprecht| <anna-lena.lamprecht@uni-potsdam.de> |
-| [de-RSE](http://de-rse.org/)  | Claire Wyatt | <cl.wyatt@fz-juelich.de> |
-| [de-RSE](http://de-rse.org/)  | Frank Löffler | <frank.loeffler@de-rse.org> |
-| [de-RSE](http://de-rse.org/)  | Stephan Druskat | <s.druskat@tu-braunschweig.de> |
-| [devLOG](https://www.devlog.cnrs.fr/)  | Karin Dassas| tbc |
-| [devLOG](https://www.devlog.cnrs.fr/)  | Dirk Hoffman | tbc |
-| [NL-RSE](http://nl-rse.org/)  | Thomas Pronk | <t.pronk1@amsterdamumc.nl> |
-| [NL-RSE](http://nl-rse.org/)  | Yan Grange | <grange@astron.nl> |
-| [Nordic-RSE](http://nordic-rse.org/)  | Samantha Wittke | <samantha.wittke@csc.fi> |
-| [Nordic-RSE](http://nordic-rse.org/)  | Matteo Tomasini | <matteo.tomasini@gu.se> |
-| [RSCAN](https://github.com/alliancecan/RSCAN) | Ockmer Oosthuizen | <ockmer.oosthuizen@alliancecan.ca> |
-| [RSCAN](https://github.com/alliancecan/RSCAN) | Fares Dhane | <fares.dhane@alliancecan.ca> |
-| [RSE-AUNZ](https://rse-aunz.github.io/) | Peter Marendy | tbc |
-| [Soc RSE](https://society-rse.org/) | Laura Crawford | <m.simpson@society-rse.org> |
-| [Soc RSE](https://society-rse.org/) | Mike Simpson | <m.simpson@society-rse.org> |
-| [US-RSE](http://us-rse.org/) | Keith Beattie | <ksbeattie@lbl.gov> |
-| [US-RSE](http://us-rse.org/)  | Ian Cosden | <icosden@princeton.edu> |
+| [{% include flags.html code="be" alt="Belgium" %} BE-RSE](https://be-rse.org/)  | Alexander Botzki | <alexander.botzki@vib.be> |
+| [{% include flags.html code="be" alt="Belgium" %} BE-RSE](https://be-rse.org/)  | Johan Philips | <johan.philips@kuleuven.be> |
+| [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Anna-Lena Lamprecht| <anna-lena.lamprecht@uni-potsdam.de> |
+| [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Claire Wyatt | <cl.wyatt@fz-juelich.de> |
+| [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Frank Löffler | <frank.loeffler@de-rse.org> |
+| [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Stephan Druskat | <s.druskat@tu-braunschweig.de> |
+| [{% include flags.html code="fr" alt="France" %} devLOG](https://www.devlog.cnrs.fr/)  | Karin Dassas| tbc |
+| [{% include flags.html code="fr" alt="France" %} devLOG](https://www.devlog.cnrs.fr/)  | Dirk Hoffman | tbc |
+| [{% include flags.html code="nl" alt="Netherlands" %} NL-RSE](http://nl-rse.org/)  | Thomas Pronk | <t.pronk1@amsterdamumc.nl> |
+| [{% include flags.html code="nl" alt="Netherlands" %} NL-RSE](http://nl-rse.org/)  | Yan Grange | <grange@astron.nl> |
+| [{% include flags.html code="no" alt="Norway" %}{% include flags.html code="se" alt="Sweden" %}{% include flags.html code="fi" alt="Finland" %}{% include flags.html code="dk" alt="Denmark" %}{% include flags.html code="is" alt="Iceland" %} Nordic-RSE](http://nordic-rse.org/)  | Samantha Wittke | <samantha.wittke@csc.fi> |
+| [{% include flags.html code="no" alt="Norway" %}{% include flags.html code="se" alt="Sweden" %}{% include flags.html code="fi" alt="Finland" %}{% include flags.html code="dk" alt="Denmark" %}{% include flags.html code="is" alt="Iceland" %} Nordic-RSE](http://nordic-rse.org/)  | Matteo Tomasini | <matteo.tomasini@gu.se> |
+| [{% include flags.html code="ca" alt="Canada" %} RSCAN](https://github.com/alliancecan/RSCAN) | Ockmer Oosthuizen | <ockmer.oosthuizen@alliancecan.ca> |
+| [{% include flags.html code="ca" alt="Canada" %} RSCAN](https://github.com/alliancecan/RSCAN) | Fares Dhane | <fares.dhane@alliancecan.ca> |
+| [{% include flags.html code="au" alt="Australia" %}{% include flags.html code="nz" alt="New Zealand" %} RSE-AUNZ](https://rse-aunz.github.io/) | Peter Marendy | tbc |
+| [{% include flags.html code="gb" alt="United Kingdom" %} Soc RSE](https://society-rse.org/) | Laura Crawford | <m.simpson@society-rse.org> |
+| [{% include flags.html code="gb" alt="United Kingdom" %} Soc RSE](https://society-rse.org/) | Mike Simpson | <m.simpson@society-rse.org> |
+| [{% include flags.html code="us" alt="United States of America" %} US-RSE](http://us-rse.org/) | Keith Beattie | <ksbeattie@lbl.gov> |
+| [{% include flags.html code="us" alt="United States of America" %} US-RSE](http://us-rse.org/)  | Ian Cosden | <icosden@princeton.edu> |
 
 ## Observer associations
 
 | Association | Name | Email |
 | -----------: | :--------------| :--------------|
-| [RSE Argentina](https://rse-argentina.github.io/)| Patricia Loto | <rse.comunidad.argentina@gmail.com> |
-| [RSE Argentina](https://rse-argentina.github.io/)| Andrea Gomez Vargas | <rse.comunidad.argentina@gmail.com> |
+| [{% include flags.html code="ar" alt="Argentina" %} RSE Argentina](https://rse-argentina.github.io/)| Patricia Loto | <rse.comunidad.argentina@gmail.com> |
+| [{% include flags.html code="ar" alt="Argentina" %} RSE Argentina](https://rse-argentina.github.io/)| Andrea Gomez Vargas | <rse.comunidad.argentina@gmail.com> |
 | [RSE Asia](https://rse-asia.github.io/RSE_Asia/) | Saranjeet Kaur | <kaur.saranjeet3@gmail.com> |
 | [RSE Asia](https://rse-asia.github.io/RSE_Asia/) | Jyoti Bhogal | <bhogaljyoti1@gmail.com> |
-| [RSE Chile](https://rse-chile.github.io/) | Riva Quiroga | <rivaquiroga@gmail.com> |
-| [RSE Chile](https://rse-chile.github.io/) | Sara Acevedo | <seaceved@uc.cl> |
+| [{% include flags.html code="cl" alt="Chile" %} RSE Chile](https://rse-chile.github.io/) | Riva Quiroga | <rivaquiroga@gmail.com> |
+| [{% include flags.html code="cl" alt="Chile" %} RSE Chile](https://rse-chile.github.io/) | Sara Acevedo | <seaceved@uc.cl> |
 | [RSSE Africa](https://rsse.africa/) | Anelda van der Walt | <team@rsse.africa> |
-| [Swiss RSE Community](https://rse.swiss/) | Uwe Schmitt | <uwe.schmitt@id.ethz.ch> |
+| [{% include flags.html code="ch" alt="Switzerland" %} Swiss RSE Community](https://rse.swiss/) | Uwe Schmitt | <uwe.schmitt@id.ethz.ch> |
