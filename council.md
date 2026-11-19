@@ -44,7 +44,7 @@ The Council has a [*Code of Conduct*](./council/code-of-conduct.md), and you are
 | [{% include flags.html code="be" alt="Belgium" %} BE-RSE](https://be-rse.org/)  | Alexander Botzki | <alexander.botzki@vib.be> |
 | [{% include flags.html code="be" alt="Belgium" %} BE-RSE](https://be-rse.org/)  | Johan Philips | <johan.philips@kuleuven.be> |
 | [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Claire Wyatt | <cl.wyatt@fz-juelich.de> |
-| [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Stephan Druskat | <s.druskat@tu-braunschweig.de> |
+| [{% include flags.html code="de" alt="Germany" %} de-RSE](http://de-rse.org/)  | Stephan Druskat | <stephan.druskat@de-rse.org> |
 | [{% include flags.html code="fr" alt="France" %} devLOG](https://www.devlog.cnrs.fr/)  | Karin Dassas| tbc |
 | [{% include flags.html code="fr" alt="France" %} devLOG](https://www.devlog.cnrs.fr/)  | Dirk Hoffman | tbc |
 | [{% include flags.html code="nl" alt="Netherlands" %} NL-RSE](http://nl-rse.org/)  | Thomas Pronk | <t.pronk1@amsterdamumc.nl> |
