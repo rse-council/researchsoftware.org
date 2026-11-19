@@ -26,7 +26,7 @@ meetings as observing participants, ask questions and discuss issues at the
 end of meetings.
 
 To get in touch with the Council, write an email to  
-📧 [intl-rse-council@listserv.dfn.de](mailto:intl-rse-council@listserv.dfn.de).
+[<img src="img/email-icon.svg" style="height:1.1em" alt="email us, icon licensed under CC-0"/>  intl-rse-council@listserv.dfn.de](mailto:intl-rse-council@listserv.dfn.de).
 
 For more information, also read
 [this blog post from the 2nd International RSE Leaders Workshop 2020](https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html).
