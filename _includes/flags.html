@@ -1,0 +1,6 @@
+{%- capture flag -%}
+<img src="{{ 'img/flags-wavy/' | append: include.code | append: '.svg' | relative_url }}"
+     alt="{{ include.alt | default: include.code | escape }}"
+     style="height: 1.1em; width: auto; vertical-align: -0.15em; margin-inline: 0.1em;">
+{%- endcapture -%}
+{{- flag | strip_newlines -}}

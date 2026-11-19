@@ -39,3 +39,7 @@ cc-by: >-
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# Shared content is included in pages, rather than published separately.
+exclude:
+ - shared-content/
