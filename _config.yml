@@ -43,3 +43,6 @@ plugins:
 # Shared content is included in pages, rather than published separately.
 exclude:
  - shared-content/
+
+# Load shared values for use from pages in any directory.
+data_dir: shared-content
