@@ -7,8 +7,7 @@ hidetitle: false
 The [International Council of RSE Associations](../council.md) has decided to declare 
 the second Thursday in October to be the annual "International RSE Day". 
 
-### The second International RSE Day was<br>*Thursday, 13th October 2022*.
-
+### The next International RSE day will be on the {{ site.data.next_rse_day.next_date }}.
 The International RSE Day is to celebrate Research Software Engineers around the world 
 and raise awareness for the increasingly relevant discipline of Research Software 
 Engineering. The International Council encourages national and local RSE associations to 
@@ -20,17 +19,19 @@ hold regular or special events on this day, such as:
 * Awareness campaigns
 * National RSE information sessions
 
-## International RSE Day 2022 - Events
+Events organised for the International RSE day of 2027 will be posted on this page.
 
-- ### **[de-RSE]** [de-RSE International RSE day](https://pad.gwdg.de/44b79pTvSYae9QEr8c5Dhw)
-- ### **[SocRSE]** [Society of Research Software Engineering UK International RSE day](https://society-rse.org/international-rse-day-13th-october-2022/)
-- ### **[US-RSE]** [US-RSE Community Building Workshop Next Steps Community Call](https://asu.zoom.us/meeting/register/tZ0ude-vrDIpHd0cj_pPM_5u-6gSpoZvnRoW)
+<br /> <br />
 
-<br/><br/>
+## Historical International RSE days
+### *Thursday, 8th October 2026*
+- **[NL-RSE]**: [meetup](https://www.esciencecenter.nl/event/nl-rse-meet-up/) 
 
-## International RSE Day 2023
+## Second International RSE Day 2022 - *Thursday, 13th October 2022*. Events
 
-The next International RSE Day will be Thursday, 12th October, 2023.
+- **[de-RSE]** [de-RSE International RSE day](https://pad.gwdg.de/44b79pTvSYae9QEr8c5Dhw)
+- **[SocRSE]** [Society of Research Software Engineering UK International RSE day](https://society-rse.org/international-rse-day-13th-october-2022/)
+- **[US-RSE]** [US-RSE Community Building Workshop Next Steps Community Call](https://asu.zoom.us/meeting/register/tZ0ude-vrDIpHd0cj_pPM_5u-6gSpoZvnRoW)
 
 #### International RSE Day 2021 - Events
 
